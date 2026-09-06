@@ -1,102 +1,127 @@
 {
     "Opt-General,1": {
         "0": "Preset 1",
+        "9": "Voreinstellung 1",
         "13": "\u9884\u8bbe 1"
     },
     "Opt-General,2": {
         "0": "Preset 2",
+        "9": "Voreinstellung 2",
         "13": "\u9884\u8bbe 2"
     },
     "Opt-General,3": {
         "0": "Random Preset Skeld",
+        "9": "Zuf\u00e4llige Voreinstellung Skeld",
         "13": "\u968f\u673aSkeld\u9884\u8bbe"
     },
     "Opt-General,4": {
         "0": "Random Preset Mira HQ",
+        "9": "Zuf\u00e4llige Voreinstellung Mira HQ",
         "13": "\u968f\u673aMira HQ\u9884\u8bbe"
     },
     "Opt-General,5": {
         "0": "Random Preset Polus",
+        "9": "Zuf\u00e4llige Voreinstellung Polus",
         "13": "\u968f\u673aPolus\u9884\u8bbe"
     },
     "Opt-General,6": {
         "0": "Random Preset Airship",
+        "9": "Zuf\u00e4llige Voreinstellung Airship",
         "13": "\u968f\u673aAirship\u9884\u8bbe"
     },
     "Opt-General,7": {
         "0": "Random Preset Fungle",
+        "9": "Zuf\u00e4llige Voreinstellung The Fungle",
         "13": "\u968f\u673aFungle\u9884\u8bbe"
     },
     "Opt-General,8": {
         "0": "Random Preset Submerged",
+        "9": "Zuf\u00e4llige Voreinstellung Submerged",
         "13": "\u968f\u673aSubmerged\u9884\u8bbe"
     },
     "Opt-General,9": {
         "0": "Preset",
+        "9": "Voreinstellung",
         "13": "\u9884\u8bbe"
     },
     "Opt-Heading,1": {
         "0": "Role Draft",
+        "9": "Rollen-Draft",
         "13": "\u8f6e\u62bd\u9009\u89d2"
     },
     "Opt-Heading,2": {
         "0": "Min/Max Roles",
+        "9": "Minimum/Maximum Rollen",
         "13": "\u804c\u4e1a\u6570\u91cf\u8bbe\u7f6e"
     },
     "Opt-Heading,3": {
         "0": "Hide After Death Modifiers",
+        "9": "Hide after Death Modifikator",
         "13": "\u6b7b\u540e\u9690\u85cf\u9644\u52a0\u804c\u4e1a\u6548\u679c"
     },
     "Opt-Heading,4": {
         "0": "Amount of Guessers",
+        "9": "Anzahl an Guessern",
         "13": "\u8d4c\u602a\u6570\u91cf\u8bbe\u7f6e"
     },
     "Opt-Heading,5": {
         "0": "Force Guessers",
+        "9": "Guesser erzwingen",
         "13": "\u5f3a\u5236\u8d4c\u602a\u8bbe\u7f6e"
     },
     "Opt-Heading,6": {
         "0": "General Guesser Settings",
+        "9": "Allgemeine Guesser Einstellungen",
         "13": "\u5e38\u89c4\u8d4c\u602a\u8bbe\u7f6e"
     },
     "Opt-Heading,7": {
         "0": "Hunter Lights Settings",
+        "9": "J\u00e4ger Sichtbereich Einstellungen",
         "13": "\u730e\u4eba\u706f\u5149\u8bbe\u7f6e"
     },
     "Opt-Heading,8": {
         "0": "Hunted Shields Settings",
+        "9": "Gejagte Schild Einstellungen",
         "13": "\u730e\u7269\u62a4\u76fe\u8bbe\u7f6e"
     },
     "Opt-Heading,9": {
         "0": "General PropHunt Settings",
+        "9": "Allgemeine Prop Hunt Einstellungen",
         "13": "\u5e38\u89c4\u53d8\u5f62\u72e9\u730e\u8bbe\u7f6e"
     },
     "Opt-Heading,10": {
         "0": "Hunter Settings",
+        "9": "J\u00e4ger Einstellungen",
         "13": "\u730e\u4eba\u8bbe\u7f6e"
     },
     "Opt-Heading,11": {
         "0": "Prop Settings",
+        "9": "Gejagte Einstellungen",
         "13": "\u9053\u5177\u8bbe\u7f6e"
     },
     "Opt-Heading,12": {
         "0": "Gameplay Settings",
+        "9": "Spieleinstellungen",
         "13": "\u57fa\u7840\u6e38\u620f\u8bbe\u7f6e"
     },
     "Opt-Heading,13": {
         "0": "Night Vision Cams",
+        "9": "Nachtsichtkameras",
         "13": "\u591c\u89c6\u6444\u50cf\u5934"
     },
     "Opt-Heading,14": {
         "0": "Voice Chat",
+        "9": "Sprachchat",
         "13": "\u8bed\u97f3\u804a\u5929\u8bbe\u7f6e"
     },
     "Opt-Heading,15": {
         "0": "Role Voice Channels",
+        "9": "Sprachchat f\u00fcr Rollen",
         "13": "\u8bed\u97f3\u804a\u5929\u9891\u9053\u8bbe\u7f6e"
     },
     "Opt-Heading,16": {
         "0": "Random Maps",
+        "9": "Zuf\u00e4llige Karten",
         "13": "\u968f\u673a\u5730\u56fe\u8bbe\u7f6e"
     },
     "Opt-General,10": {
@@ -105,394 +130,492 @@
     },
     "Opt-General,11": {
         "0": "Enable Role Draft",
+        "9": "Rollen Draft aktivieren",
         "13": "\u542f\u7528\u8f6e\u62bd\u9009\u89d2\u6a21\u5f0f"
     },
     "Opt-General,12": {
         "0": "Max Amount Of Roles\nTo Choose From",
+        "9": "Maximimale Anzahl an Rollen zum Aussuchen",
         "13": "\u6700\u5927\u53ef\u9009\u62e9\u804c\u4e1a\u6570\u91cf"
     },
     "Opt-General,13": {
         "0": "Time For Selection",
+        "9": "Zeit f\u00fcr Aussuchen",
         "13": "\u9009\u62e9\u804c\u4e1a\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-General,14": {
         "0": "Show Picked Roles",
+        "9": "Ausgew\u00e4hlte Rollen anzeigen",
         "13": "\u663e\u793a\u88ab\u9009\u62e9\u7684\u804c\u4e1a"
     },
     "Opt-General,15": {
         "0": "Hide Impostor Roles",
+        "9": "Impostor Rollen ausblenden",
         "13": "\u9690\u85cf\u5df2\u9009\u62e9\u7684\u5185\u9b3c\u804c\u4e1a"
     },
     "Opt-General,16": {
         "0": "Hide Neutral Roles",
+        "9": "Neutrale Rollen ausblenden",
         "13": "\u9690\u85cf\u5df2\u9009\u62e9\u7684\u4e2d\u7acb\u804c\u4e1a"
     },
     "Opt-General,17": {
         "0": "Minimum Crewmate Roles",
+        "9": "Mimimale Anzahl an Crewmate Rollen",
         "13": "\u6700\u5c0f\u8239\u5458\u804c\u4e1a\u6570"
     },
     "Opt-General,18": {
         "0": "Maximum Crewmate Roles",
+        "9": "Maximale Anzahl an Crewmate Rollen",
         "13": "\u6700\u5927\u8239\u5458\u804c\u4e1a\u6570"
     },
     "Opt-General,19": {
         "0": "Minimum Neutral Roles",
+        "9": "Mimimale Anzahl an Neutralen Rollen",
         "13": "\u6700\u5c0f\u4e2d\u7acb\u804c\u4e1a\u6570"
     },
     "Opt-General,20": {
         "0": "Maximum Neutral Roles",
+        "9": "Maximale Anzahl an Neutralen Rollen",
         "13": "\u6700\u5927\u4e2d\u7acb\u804c\u4e1a\u6570"
     },
     "Opt-General,21": {
         "0": "Minimum Impostor Roles",
+        "9": "Mimimale Anzahl an Impostor Rollen",
         "13": "\u6700\u5c0f\u5185\u9b3c\u804c\u4e1a\u6570"
     },
     "Opt-General,22": {
         "0": "Maximum Impostor Roles",
+        "9": "Maximale Anzahl an Impostor Rollen",
         "13": "\u6700\u5927\u5185\u9b3c\u804c\u4e1a\u6570"
     },
     "Opt-General,23": {
         "0": "Minimum Modifiers",
+        "9": "Minimale Anzahl an Modifikationen",
         "13": "\u6700\u5c0f\u9644\u52a0\u804c\u4e1a\u6570"
     },
     "Opt-General,24": {
         "0": "Maximum Modifiers",
+        "9": "Maximale Anzahl an Modifikationen",
         "13": "\u6700\u5927\u9644\u52a0\u804c\u4e1a\u6570"
     },
     "Opt-General,25": {
         "0": "Fill Crewmate Roles\n(Ignores Min/Max)",
+        "9": "Crewmate Rollen auff\u00fcllen(ignoriert Minimum/Maximum)\n",
         "13": "\u586b\u5145\u8239\u5458\u804c\u4e1a\uff08\u5ffd\u7565\u6570\u91cf\u9650\u5236\uff09"
     },
     "Opt-General,26": {
         "0": "Number Of Meetings (excluding Mayor meeting)",
+        "9": "Anzahl an Meetings (ausgenommen Mayor Meeting)",
         "13": "\u603b\u7d27\u6025\u4f1a\u8bae\u6570\uff08\u4e0d\u5305\u62ec\u5e02\u957f\u4f1a\u8bae\uff09"
     },
     "Opt-General,27": {
         "0": "Any Player Can Stop The Start",
+        "9": "Jeder Spieler kann Spielstart abbrechen",
         "13": "\u4efb\u4f55\u73a9\u5bb6\u90fd\u53ef\u4ee5\u963b\u6b62\u6e38\u620f\u5f00\u59cb"
     },
     "Opt-General,28": {
         "0": "Block Skipping In Emergency Meetings",
+        "9": "\u00dcberspringen in Meetings deaktivieren",
         "13": "\u4f1a\u8bae\u4e2d\u4e0d\u5141\u8bb8\u8df3\u8fc7\u6295\u7968"
     },
     "Opt-General,29": {
         "0": "No Vote Is Self Vote",
+        "9": "Enthaltung z\u00e4hlt als Selbstwahl",
         "13": "\u4e0d\u6295\u7968\u7b49\u89c6\u4e3a\u6295\u7ed9\u81ea\u5df1"
     },
     "Opt-General,30": {
         "0": "Hide Player Names",
+        "9": "Spielernamen verstecken",
         "13": "\u9690\u85cf\u73a9\u5bb6\u59d3\u540d"
     },
     "Opt-General,31": {
         "0": "Allow Parallel MedBay Scans",
+        "9": "Parallele MedBay Scans erlauben",
         "13": "\u5141\u8bb8\u540c\u65f6\u8fdb\u884c\u626b\u63cf\u4efb\u52a1"
     },
     "Opt-General,32": {
         "0": "Shield Last Game First Kill",
+        "9": "Ersten Gekillten vom letzten Spiel sch\u00fctzen",
         "13": "\u542f\u7528\u9996\u5200\u4fdd\u62a4"
     },
     "Opt-General,33": {
         "0": "Finish Tasks Before Haunting Or Zooming Out",
+        "9": "Aufgaben m\u00fcssen vor ",
         "13": "\u5b8c\u6210\u4efb\u52a1\u524d\u4e0d\u53ef\u7528\u5e7d\u5e7d\u9b3c\u5f71\u53ca\u5343\u91cc\u773c"
     },
     "Opt-General,34": {
         "0": "Block Dead Impostor From Sabotaging",
+        "9": "Tote Imposter vor Sabotagen abhalten",
         "13": "\u7981\u6b62\u5df2\u6b7b\u4ea1\u7684\u5185\u9b3c\u7834\u574f"
     },
     "Opt-General,35": {
         "0": "Cams Switch To Night Vision If Lights Are Off",
+        "9": "Kameras wechseln auf Nachtsicht wenn Licht aus ist",
         "13": "\u5728\u706f\u5149\u88ab\u5173\u95ed\u65f6\u76d1\u63a7\u4f7f\u7528\u591c\u89c6\u6a21\u5f0f"
     },
     "Opt-General,36": {
         "0": "Impostor Vision Ignores Night Vision Cams",
+        "9": "Impostorsicht ignoriert Nachtsichtkameras",
         "13": "\u62e5\u6709\u5185\u9b3c\u89c6\u91ce\u7684\u73a9\u5bb6\u65e0\u89c6\u591c\u89c6\u6a21\u5f0f"
     },
     "Opt-General,37": {
         "0": "Play On A Random Map",
+        "9": "Auf einer zuf\u00e4lligen Map spielen",
         "13": "\u968f\u673a\u5730\u56fe\u6e38\u73a9"
     },
     "Opt-General,38": {
         "0": "Skeld",
+        "9": "Skeld",
         "13": "Skeld"
     },
     "Opt-General,39": {
         "0": "Mira",
+        "9": "Mira",
         "13": "Mira"
     },
     "Opt-General,40": {
         "0": "Polus",
+        "9": "Polus",
         "13": "Polus"
     },
     "Opt-General,41": {
         "0": "Airship",
+        "9": "Airship",
         "13": "Airship"
     },
     "Opt-General,42": {
         "0": "Fungle",
+        "9": "Fungle",
         "13": "Fungle"
     },
     "Opt-General,43": {
         "0": "Submerged",
+        "9": "Submerged",
         "13": "Submerged"
     },
     "Opt-General,44": {
         "0": "Use Random Map Setting Presets",
+        "9": "Zuf\u00e4llige Voreinstellungen f\u00fcr Map nutzen",
         "13": "\u4f7f\u7528\u968f\u673a\u5730\u56fe\u9884\u8bbe"
     },
     "Opt-General,45": {
         "0": "Enable Voice Chat",
+        "9": "Sprachchat aktivieren",
         "13": "\u542f\u7528\u8bed\u97f3\u804a\u5929"
     },
     "Opt-General,46": {
         "0": "Max Chat Distance",
+        "9": "Maximale Chat Distanz",
         "13": "\u6700\u5927\u804a\u5929\u8ddd\u79bb"
     },
     "Opt-General,47": {
         "0": "Walls Block Sound",
+        "9": "W\u00e4nde blockieren Sound",
         "13": "\u5899\u58c1\u53ef\u4ee5\u9694\u97f3"
     },
     "Opt-General,48": {
         "0": "Only Hear In Sight",
+        "9": "Nur Spieler in Sicht h\u00f6ren",
         "13": "\u4ec5\u53ef\u542c\u89c1\u89c6\u91ce\u4e2d\u7684\u73a9\u5bb6\u804a\u5929"
     },
     "Opt-General,49": {
         "0": "Impostor Hear Ghosts",
+        "9": "Impostor h\u00f6ren Geister",
         "13": "\u5185\u9b3c\u53ef\u4ee5\u542c\u89c1\u7075\u9b42\u804a\u5929"
     },
     "Opt-General,50": {
         "0": "Only Ghosts Can Talk",
+        "9": "Nur Geister k\u00f6nnen Reden",
         "13": "\u4ec5\u7075\u9b42\u53ef\u4ee5\u804a\u5929"
     },
     "Opt-General,51": {
         "0": "Hear Outside In Vent",
+        "9": "Au\u00dferhalb eines Vents h\u00f6ren k\u00f6nnen wenn in Vent",
         "13": "\u5728\u7ba1\u9053\u4e2d\u53ef\u4ee5\u542c\u89c1\u5916\u754c\u58f0\u97f3"
     },
     "Opt-General,52": {
         "0": "Hear Players In Vent",
+        "9": "Spieler im Vent h\u00f6ren",
         "13": "\u5916\u754c\u53ef\u4ee5\u542c\u89c1\u7ba1\u9053\u4e2d\u7684\u58f0\u97f3"
     },
     "Opt-General,53": {
         "0": "Vent Private Chat",
+        "9": "Vent Privatchat",
         "13": "\u7ba1\u9053\u5185\u4f7f\u7528\u79c1\u5bc6\u9891\u9053"
     },
     "Opt-General,54": {
         "0": "Comms Sabotage Mutes",
+        "9": "Comms Sabotage deaktiviert Sprachchat",
         "13": "\u7834\u574f\u901a\u8baf\u65f6\u9759\u97f3"
     },
     "Opt-General,55": {
         "0": "Hear Through Cameras",
+        "9": "Durch Kameras durchh\u00f6ren",
         "13": "\u53ef\u4ee5\u901a\u8fc7\u5b89\u4fdd\u6444\u50cf\u5934\u542c\u5230\u804a\u5929\u58f0\u97f3"
     },
     "Opt-General,57": {
         "0": "Only Meeting / Lobby",
+        "9": "Nur Meeting/Lobby",
         "13": "\u5c3d\u5728\u5927\u5385\u6216\u4f1a\u8bae\u53ef\u4ee5\u4f7f\u7528\u8bed\u97f3\u804a\u5929"
     },
     "Opt-General,58": {
         "0": "Enable <color=#FF1919FF>Impostor</color> Channel",
+        "9": "<color=#FF1919FF>Impostor</color> Sprachchat aktivieren",
         "13": "\u542f\u7528<color=#FF1919FF>\u5185\u9b3c</color>\u79c1\u5bc6\u804a\u5929"
     },
     "Opt-General,59": {
         "0": "Enable <color=#E839B9>Lovers</color> Channel",
+        "9": "<color=#E839B9>Lovers</color> Sprachchat aktivieren",
         "13": "\u542f\u7528<color=#E839B9>\u604b\u4eba</color>\u79c1\u5bc6\u804a\u5929"
     },
     "Opt-General,60": {
         "0": "Enable <color=#00B4EB>Jackal Team</color> Channel",
+        "9": "<color=#00B4EB>Jackal Team</color> Sprachchat aktivieren",
         "13": "\u542f\u7528<color=#00B4EB>\u8c7a\u72fc\u56e2\u961f</color>\u79c1\u5bc6\u804a\u5929"
     },
     "Opt-General,61": {
-        "0": "Enable <color=#F8CD46>Sheriff</color> & <color=#F8CD46>Deputy</color> Channel\n(If Konw Each Other)",
+        "0": "Enable <color=#F8CD46>Sheriff</color> & <color=#F8CD46>Deputy</color> Channel\n(If Know Each Other)",
+        "9": "<color=#F8CD46>Sheriff</color> & <color=#F8CD46>Deputy</color> Sprachkanal aktivieren\n",
         "13": "\u542f\u7528<color=#F8CD46>\u8b66\u957f</color>\u4e0e<color=#F8CD46>\u6355\u5feb</color>\u79c1\u5bc6\u804a\u5929\n(\u5982\u679c\u4e92\u76f8\u77e5\u9053)"
     },
     "Opt-General,62": {
         "0": "VIP, Bait & Bloody Are Hidden",
+        "9": "VIP, Bait & Bloody sind versteckt",
         "13": "VIP, \u8bf1\u9975\u548c\u6e85\u8840\u8005"
     },
     "Opt-General,69": {
         "0": "<color=#CCCCCCFF>Off</color>",
+        "9": "<color=#CCCCCCFF>Aus</color>",
         "13": "<color=#CCCCCCFF>\u5173\u95ed</color>"
     },
     "Opt-General,70": {
         "0": "<color=#FFFF00FF>On</color>",
+        "9": "<color=#FFFF00FF>An</color>",
         "13": "<color=#FFFF00FF>\u5f00\u542f</color>"
     },
     "Opt-General,100": {
         "0": "The Skeld",
+        "9": "The Skeld",
         "13": "The Skeld"
     },
     "Opt-General,101": {
         "0": "Mira",
+        "9": "Mira",
         "13": "Mira"
     },
     "Opt-General,102": {
         "0": "Polus",
+        "9": "Polus",
         "13": "Polus"
     },
     "Opt-General,103": {
         "0": "Airship",
+        "9": "Airship",
         "13": "Airship"
     },
     "Opt-General,104": {
         "0": "Fungle",
+        "9": "Fungle",
         "13": "Fungle"
     },
     "Opt-General,105": {
         "0": "Submerged",
+        "9": "Submerged",
         "13": "Submerged"
     },
     "Opt-General,106": {
         "0": "LI Map",
+        "9": "LI Map",
         "13": "LI Map"
     },
     "Opt-Mafia,1": {
         "0": "Janitor Cooldown",
+        "9": "Janitor Cooldown",
         "13": "\u6e05\u6d01\u5de5\u6280\u80fd\u51b7\u5374\u65f6\u95f4"
     },
     "Opt-Morphling,1": {
         "0": "Morphling Cooldown",
+        "9": "Morphling Cooldown",
         "13": "\u5316\u5f62\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Morphling,2": {
         "0": "Morph Duration",
+        "9": "Verwandlungsdauer",
         "13": "\u5316\u5f62\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-Camouflager,1": {
         "0": "Camouflager Cooldown",
+        "9": "Camouflager Cooldown",
         "13": "\u9690\u853d\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Camouflager,2": {
         "0": "Camo Duration",
+        "9": "Camouflage Dauer",
         "13": "\u9690\u853d\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-Vampire,1": {
         "0": "Vampire Kill Delay",
+        "9": "Vampir Verz\u00f6gerung bis Kill",
         "13": "\u6495\u54ac\u51fb\u6740\u5ef6\u8fdf"
     },
     "Opt-Vampire,2": {
         "0": "Vampire Cooldown",
+        "9": "Vampir Cooldown",
         "13": "\u6495\u54ac\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Vampire,3": {
         "0": "Vampire Can Kill Near Garlics",
+        "9": "Vampir kann nahe Zwiebeln t\u00f6ten",
         "13": "\u53ef\u5728\u5927\u849c\u9644\u8fd1\u51fb\u6740"
     },
     "Opt-Eraser,1": {
         "0": "Eraser Cooldown",
+        "9": "Eraser Cooldown",
         "13": "\u64e6\u9664\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Eraser,2": {
         "0": "Eraser Can Erase Anyone",
+        "9": "Eraser kann jeden t\u00f6ten",
         "13": "\u53ef\u4ee5\u64e6\u9664\u4efb\u4f55\u4eba\u7684\u804c\u4e1a"
     },
     "Opt-Trickster,1": {
         "0": "Trickster Box Cooldown",
+        "9": "Trickster Box Cooldown",
         "13": "\u60ca\u559c\u76d2\u5b50\u6280\u80fd\u4f7f\u7528\u51b7\u5374"
     },
     "Opt-Trickster,2": {
         "0": "Trickster Lights Out Cooldown",
+        "9": "Trickster Cooldown f\u00fcr Lichter Aus",
         "13": "\u9a97\u672f\u5173\u706f\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Trickster,3": {
         "0": "Trickster Lights Out Duration",
+        "9": "Trickster Dauer f\u00fcr Lichter Aus ",
         "13": "\u9a97\u672f\u5173\u706f\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-Cleaner,1": {
         "0": "Cleaner Cooldown",
+        "9": "Cleaner Cooldown",
         "13": "\u6e05\u7406\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Warlock,1": {
         "0": "Warlock Cooldown",
+        "9": "Warlock Cooldown",
         "13": "\u8bc5\u5492\u6280\u80fd\u51b7\u5374\u65f6\u95f4"
     },
     "Opt-Warlock,2": {
         "0": "Warlock Root Time",
+        "9": "Warlock Stillstehen Zeit nach Kill",
         "13": "\u5492\u6740\u540e\u5b9a\u8eab\u65f6\u95f4"
     },
     "Opt-BountyHunter,1": {
         "0": "Duration After Which Bounty Changes",
+        "9": "Zeit nach der Kopfgeld der Which \u00e4ndert",
         "13": "\u60ac\u8d4f\u76ee\u6807\u53d1\u751f\u53d8\u5316\u7684\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-BountyHunter,2": {
         "0": "Cooldown After Killing Bounty",
+        "9": "Cooldown nach Kill des Kopfgelds",
         "13": "\u51fb\u6740\u60ac\u8d4f\u76ee\u6807\u540e\u7684\u51b7\u5374\u65f6\u95f4"
     },
     "Opt-BountyHunter,3": {
         "0": "Additional Cooldown After Killing Others",
+        "9": "Zus\u00e4tzlicher Cooldown nach Kill von Anderen",
         "13": "\u51fb\u6740\u975e\u60ac\u8d4f\u76ee\u6807\u540e\u7684\u989d\u5916\u51b7\u5374\u65f6\u95f4"
     },
     "Opt-BountyHunter,4": {
         "0": "Show Arrow Pointing Towards The Bounty",
+        "9": "Zeige Pfeil zum Kopfgeld",
         "13": "\u663e\u793a\u6307\u5411\u60ac\u8d4f\u76ee\u6807\u7684\u7bad\u5934"
     },
     "Opt-BountyHunter,5": {
         "0": "Arrow Update Intervall",
+        "9": "Aktualisierungsintervall vom Pfeil",
         "13": "\u7bad\u5934\u66f4\u65b0\u65f6\u95f4\u95f4\u9694"
     },
     "Opt-Witch,1": {
         "0": "Witch Spell Casting Cooldown",
+        "9": "Witch Zauber Cooldown",
         "13": "\u4e0b\u5492\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Witch,2": {
         "0": "Witch Additional Cooldown",
+        "9": "Witch Extra Abklingzeit",
         "13": "\u6bcf\u6b21\u4e0b\u5492\u540e\u51b7\u5374\u589e\u52a0\u65f6\u95f4"
     },
     "Opt-Witch,3": {
         "0": "Witch Can Spell Anyone",
+        "9": "Witch kann jeden verzaubern",
         "13": "\u53ef\u5bf9\u4efb\u4f55\u4eba\u4e0b\u5492"
     },
     "Opt-Witch,4": {
         "0": "Spell Casting Duration",
+        "9": "Dauer bis Zauber wirkt",
         "13": "\u4e0b\u5492\u6240\u9700\u65f6\u95f4"
     },
     "Opt-Witch,5": {
         "0": "Trigger Both Cooldowns",
+        "9": "Beide Cooldowns ausl\u00f6sen",
         "13": "\u51fb\u6740\u4e0e\u4e0b\u5492\u5171\u4eab\u51b7\u5374"
     },
     "Opt-Witch,6": {
         "0": "Voting The Witch Saves All The Targets",
+        "9": "W\u00e4hlen der Witch verschont die Verzauberten",
         "13": "\u88ab\u9a71\u9010\u80fd\u62ef\u6551\u6240\u6709\u88ab\u4e0b\u5492\u76ee\u6807"
     },
     "Opt-Ninja,1": {
         "0": "Ninja Mark Cooldown",
+        "9": "Ninja Markierung Cooldown",
         "13": "\u6807\u8bb0\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Ninja,2": {
         "0": "Ninja Knows Location Of Target",
+        "9": "Ninja wei\u00df letzten Standord des Ziels",
         "13": "\u53ef\u4ee5\u77e5\u9053\u6807\u8bb0\u76ee\u6807\u4f4d\u7f6e"
     },
     "Opt-Ninja,3": {
         "0": "Trace Duration",
+        "9": "Verfolgungsdauer",
         "13": "\u6807\u8bb0\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-Ninja,4": {
         "0": "Time Till Trace Color Has Faded",
+        "9": "Zeit bis Farbe f\u00fcr Verfolgung verblasst",
         "13": "\u51fb\u6740\u75d5\u8ff9\u892a\u8272\u6240\u9700\u65f6\u95f4"
     },
     "Opt-Ninja,5": {
         "0": "Time The Ninja Is Invisible",
+        "9": "Zeit in der Ninja unsichtbar ist",
         "13": "\u51fb\u6740\u540e\u9690\u8eab\u65f6\u95f4"
     },
     "Opt-Bomber,1": {
         "0": "Bomb Destruction Time",
+        "9": "Zeit bis zur Sprengung der Bombe",
         "13": "\u70b8\u5f39\u7206\u70b8\u6240\u9700\u65f6\u95f4"
     },
     "Opt-Bomber,2": {
         "0": "Bomb Destruction Range",
+        "9": "Reichweite der Bombe",
         "13": "\u70b8\u5f39\u7206\u7167\u8303\u56f4"
     },
     "Opt-Bomber,3": {
         "0": "Bomb Hear Range",
+        "9": "Reichweite des Sounds der Bombe",
         "13": "\u7206\u70b8\u58f0\u97f3\u4f20\u64ad\u8303\u56f4"
     },
     "Opt-Bomber,4": {
         "0": "Bomb Defuse Duration",
+        "9": "Dauer der Bombenentsch\u00e4rfung",
         "13": "\u62c6\u5f39\u6240\u9700\u65f6\u95f4"
     },
     "Opt-Bomber,5": {
         "0": "Bomb Cooldown",
+        "9": "Bombe Cooldown",
         "13": "\u653e\u7f6e\u70b8\u5f39\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Bomber,6": {
         "0": "Bomb Is Active After",
+        "9": "Bombe ist aktiv nach",
         "13": "\u70b8\u5f39\u6fc0\u6d3b\u6240\u9700\u65f6\u95f4"
     },
     "Opt-YoYo,1": {
@@ -521,782 +644,977 @@
     },
     "Opt-Guesser,1": {
         "0": "Chance That The Guesser Is An Impostor",
+        "9": "Guesser ist ein Impostor Chance",
         "13": "\u90aa\u6076\u8d4c\u602a\u751f\u6210\u6982\u7387"
     },
     "Opt-Guesser,2": {
         "0": "Guesser Number Of Shots",
+        "9": "Guesser Anzahl an Sch\u00fcssen",
         "13": "\u53ef\u731c\u6d4b\u6b21\u6570"
     },
     "Opt-Guesser,3": {
         "0": "Guesser Can Shoot Multiple Times Per Meeting",
+        "9": "Guesser kann mehrmals pro Meeting schie\u00dfen",
         "13": "\u4e00\u8f6e\u4f1a\u8bae\u53ef\u591a\u6b21\u731c\u6d4b"
     },
     "Opt-Guesser,4": {
         "0": "Guesses Ignore The Medic Shield",
+        "9": "Medic Shield wird von Guess ignoriert",
         "13": "\u8d4c\u6740\u65e0\u89c6\u533b\u751f\u62a4\u76fe"
     },
     "Opt-Guesser,5": {
         "0": "Evil Guesser Can Guess The Spy",
+        "9": "Evil Guesser kann den Spy guessen",
         "13": "\u90aa\u6076\u8d4c\u602a\u53ef\u4ee5\u731c\u6d4b\u5367\u5e95"
     },
     "Opt-Guesser,6": {
         "0": "Both Guesser Spawn Rate",
+        "9": "Spawnrate beider Guesser",
         "13": "\u90aa\u6076\u4e0e\u6b63\u4e49\u8d4c\u602a\u540c\u65f6\u5b58\u5728\u7684\u6982\u7387"
     },
     "Opt-Guesser,7": {
         "0": "Guesser Can't Guess Snitch When Tasks Completed",
+        "9": "Guesser kann Snitch nicht erraten wenn Aufgaben erledigt",
         "13": "\u65e0\u6cd5\u731c\u6d4b\u5b8c\u6210\u4efb\u52a1\u7684\u544a\u5bc6\u8005"
     },
     "Opt-Jester,1": {
         "0": "Jester Can Call Emergency Meeting",
+        "9": "Jester kann Meeting einberufen",
         "13": "\u53ef\u4ee5\u53ec\u5f00\u7d27\u6025\u4f1a\u8bae"
     },
     "Opt-Jester,2": {
         "0": "Jester Has Impostor Vision",
+        "9": "Jester hat Impostor Sichtweite",
         "13": "\u62e5\u6709\u5185\u9b3c\u89c6\u91ce"
     },
     "Opt-Arsonist,1": {
         "0": "Arsonist Cooldown",
+        "9": "Arsonist Cooldown",
         "13": "\u7eb5\u706b\u72af\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Arsonist,2": {
         "0": "Arsonist Douse Duration",
+        "9": "Dauer der Brandstifter-F\u00e4higkeit",
         "13": "\u6d47\u6cb9\u6240\u9700\u65f6\u95f4"
     },
     "Opt-Jackal,1": {
         "0": "Jackal/Sidekick Kill Cooldown",
+        "9": "Jackal/Sidekick Kill Cooldown",
         "13": "\u56e2\u961f\u51fb\u6740\u51b7\u5374"
     },
     "Opt-Jackal,2": {
         "0": "Jackal Create Sidekick Cooldown",
+        "9": "Jackal: Sidekick hat Cooldown",
         "13": "\u62db\u52df\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Jackal,3": {
         "0": "Jackal Can Use Vents",
+        "9": "Jackal kann Vents verwenden",
         "13": "\u53ef\u4ee5\u4f7f\u7528\u7ba1\u9053"
     },
     "Opt-Jackal,4": {
         "0": "Jackal Can Sabotage Lights",
+        "9": "Jackal kann Lichter sabotieren",
         "13": "\u53ef\u4ee5\u7834\u574f\u706f\u5149"
     },
     "Opt-Jackal,5": {
         "0": "Jackal Can Create A Sidekick",
+        "9": "Jackal kann einen Sidekick ausw\u00e4hlen",
         "13": "\u53ef\u4ee5\u62db\u52df\u8ddf\u73ed"
     },
     "Opt-Jackal,6": {
         "0": "Sidekick Gets Promoted To Jackal On Jackal Death",
+        "9": "Sidekick wird zum Jackal bei Jackals Tod",
         "13": "\u8ddf\u73ed\u53ef\u4ee5\u664b\u5347"
     },
     "Opt-Jackal,7": {
         "0": "Sidekick Can Kill",
+        "9": "Sidekick kann killen",
         "13": "\u8ddf\u73ed\u53ef\u4ee5\u51fb\u6740"
     },
     "Opt-Jackal,8": {
         "0": "Sidekick Can Use Vents",
+        "9": "Sidekick kann Vents verwenden",
         "13": "\u8ddf\u73ed\u53ef\u4ee5\u4f7f\u7528\u7ba1\u9053"
     },
     "Opt-Jackal,9": {
         "0": "Sidekick Can Sabotage Lights",
+        "9": "Sidekick kann Lichter sabotieren",
         "13": "\u8ddf\u73ed\u53ef\u4ee5\u7834\u574f\u706f\u5149"
     },
     "Opt-Jackal,10": {
         "0": "Jackals Promoted From Sidekick Can Create A Sidekick",
+        "9": "Vorheriger Sidekick ",
         "13": "\u664b\u5347\u7684\u8ddf\u73ed\u53ef\u4ee5\u62db\u52df"
     },
     "Opt-Jackal,11": {
         "0": "Jackals Can Make An Impostor To His Sidekick",
+        "9": "Jackal kann Impostor als Sidekick ausw\u00e4hlen",
         "13": "\u53ef\u4ee5\u62db\u52df\u5185\u9b3c\u4e3a\u8ddf\u73ed"
     },
     "Opt-Jackal,12": {
         "0": "Jackal And Sidekick Have Impostor Vision",
+        "9": "Jackal und Sidekick haben Sichtweite der Impostor",
         "13": "\u56e2\u961f\u62e5\u6709\u5185\u9b3c\u7684\u89c6\u91ce"
     },
     "Opt-Vulture,1": {
         "0": "Vulture Cooldown",
+        "9": "Vulture Cooldown",
         "13": "\u541e\u566c\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Vulture,2": {
         "0": "Number Of Corpses Needed To Be Eaten",
+        "9": "Anzahl der Leichen, die verzehrt werden m\u00fcssen",
         "13": "\u80dc\u5229\u6240\u9700\u541e\u566c\u5c38\u4f53\u6570"
     },
     "Opt-Vulture,3": {
         "0": "Vulture Can Use Vents",
+        "9": "Vulture kann Vents verwenden",
         "13": "\u53ef\u4ee5\u4f7f\u7528\u7ba1\u9053"
     },
     "Opt-Vulture,4": {
         "0": "Show Arrows Pointing Towards The Corpses",
+        "9": "Zeigt Pfeile zu Leichen an",
         "13": "\u663e\u793a\u6307\u5411\u5c38\u4f53\u7684\u7bad\u5934"
     },
     "Opt-Lawyer,1": {
         "0": "Chance That The Lawyer Is Prosecutor",
+        "9": "Lawyer ist Prosecutor Chance",
         "13": "\u662f\u68c0\u5bdf\u5b98\u7684\u6982\u7387"
     },
     "Opt-Lawyer,2": {
         "0": "Vision",
+        "9": "Sichtweite",
         "13": "\u89c6\u91ce"
     },
     "Opt-Lawyer,3": {
         "0": "Lawyer/Prosecutor Knows Target Role",
+        "9": "Laywer/Prosecutor wissen Rolle des Klienten",
         "13": "\u5f8b\u5e08/\u68c0\u5bdf\u5b98\u77e5\u9053\u76ee\u6807\u7684\u804c\u4e1a"
     },
     "Opt-Lawyer,4": {
         "0": "Lawyer/Prosecutor Can Call Emergency Meeting",
+        "9": "Lawyer/Prosecutor k\u00f6nnen Meeting einberufen",
         "13": "\u5f8b\u5e08/\u68c0\u5bdf\u5b98\u53ef\u4ee5\u53ec\u5f00\u7d27\u6025\u4f1a\u8bae"
     },
     "Opt-Lawyer,5": {
         "0": "Lawyer Target Can Be The Jester",
+        "9": "Lawyer Klient kann Jester sein",
         "13": "\u5f8b\u5e08\u7684\u76ee\u6807\u53ef\u4ee5\u662f\u5c0f\u4e11"
     },
     "Opt-Lawyer,6": {
         "0": "Pursuer Blank Cooldown",
+        "9": "Pursuer Blank Cooldown",
         "13": "\u8d77\u8bc9\u4eba\u7a7a\u5305\u5f39\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Lawyer,7": {
         "0": "Pursuer Number Of Blanks",
+        "9": "Pursuer Anzahl an Blanks",
         "13": "\u8d77\u8bc9\u4eba\u7a7a\u5305\u5f39\u6570\u91cf"
     },
     "Opt-Mayor,1": {
         "0": "Mayor Can See Vote Colors",
+        "9": "Mayor kann Farben der Votes",
         "13": "\u65e0\u89c6\u533f\u540d\u6295\u7968"
     },
     "Opt-Mayor,2": {
         "0": "Completed Tasks Needed To See Vote Colors",
+        "9": "Anzahl an Aufgaben f\u00fcr das Sehen der Farben ben\u00f6tigt",
         "13": "\u65e0\u89c6\u533f\u540d\u6295\u7968\u6240\u9700\u5b8c\u6210\u7684\u4efb\u52a1"
     },
     "Opt-Mayor,3": {
         "0": "Mobile Emergency Button",
+        "9": "Kann Meeting von \u00fcberall einberufen",
         "13": "\u53ef\u4ee5\u8fdc\u7a0b\u53ec\u5f00\u7d27\u6025\u4f1a\u8bae"
     },
     "Opt-Mayor,4": {
         "0": "Number Of Remote Meetings",
+        "9": "Anzahl an Meetings",
         "13": "\u8fdc\u7a0b\u7d27\u6025\u4f1a\u8bae\u6b21\u6570"
     },
     "Opt-Mayor,5": {
         "0": "Mayor Can Choose Single Vote",
+        "9": "Mayor kann einzelnen Vote entscheiden",
         "13": "\u5e02\u957f\u53ef\u4ee5\u9009\u62e9\u6295\u5355\u7968"
     },
     "Opt-Mayor,100": {
         "0": "<color=#CCCCCCFF>Off</color>",
+        "9": "<color=#CCCCCCFF>Aus</color>",
         "13": "<color=#CCCCCCFF>\u5173\u95ed</color>"
     },
     "Opt-Mayor,101": {
         "0": "<color=#FFFF00FF>On (Before Voting)</color>",
+        "9": "<color=#FFFF00FF>An (Vor Voting)</color>",
         "13": "<color=#FFFF00FF>\u5f00\u542f (\u6295\u7968\u524d)</color>"
     },
     "Opt-Mayor,102": {
         "0": "<color=#FFFF00FF>On (Until Meeting Ends)</color>",
+        "9": "<color=#FFFF00FF>An (Bis Meeting endet)</color>",
         "13": "<color=#FFFF00FF>\u5f00\u542f (\u4f1a\u8bae\u7ed3\u675f\u524d)</color>"
     },
     "Opt-Engineer,1": {
         "0": "Number Of Sabotage Fixes",
+        "9": "Anzahl der Behebungen von Sabotagen",
         "13": "\u4fee\u590d\u7834\u574f\u6280\u80fd\u6b21\u6570"
     },
     "Opt-Engineer,2": {
         "0": "Impostors See Vents Highlighted",
+        "9": "Impostor sehen Vents hervorgehoben",
         "13": "\u5185\u9b3c\u53ef\u4ee5\u770b\u5230\u5de5\u7a0b\u5e08\u5728\u7ba1\u9053\u4e2d"
     },
     "Opt-Engineer,3": {
         "0": "Jackal and Sidekick See Vents Highlighted",
+        "9": "Jackal und Sidekick sehen Vents hervorgehoben",
         "13": "\u8c7a\u72fc\u56e2\u961f\u53ef\u4ee5\u770b\u5230\u5de5\u7a0b\u5e08\u5728\u7ba1\u9053\u4e2d"
     },
     "Opt-Sheriff,1": {
         "0": "Sheriff Cooldown",
+        "9": "Sheriff Cooldown",
         "13": "\u8b66\u957f\u51fb\u6740\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Sheriff,2": {
         "0": "Sheriff Can Kill Neutrals",
+        "9": "Sheriff kann Neutrale Rollen killen",
         "13": "\u8b66\u957f\u53ef\u4ee5\u51fb\u6740\u4e2d\u7acb"
     },
     "Opt-Sheriff,3": {
         "0": "Sheriff Has A Deputy",
+        "9": "Sheriff hat einen Deputy",
         "13": "\u8b66\u957f\u62e5\u6709\u4e00\u4e2a\u6355\u5feb"
     },
     "Opt-Sheriff,4": {
         "0": "Deputy Number Of Handcuffs",
+        "9": "Deputy Anzahl an Handschellen",
         "13": "\u6355\u5feb\u624b\u94d0\u6570\u91cf"
     },
     "Opt-Sheriff,5": {
         "0": "Handcuff Cooldown",
+        "9": "Handschellen Cooldown",
         "13": "\u6355\u5feb\u624b\u94d0\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Sheriff,6": {
         "0": "Handcuff Duration",
+        "9": "Handschellen Dauer",
         "13": "\u6355\u5feb\u624b\u94d0\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-Sheriff,7": {
         "0": "Sheriff And Deputy Know Each Other",
+        "9": "Sheriff und Deputy wissen die Rollen des anderen",
         "13": "\u8b66\u957f\u4e0e\u6355\u5feb\u76f8\u8bc6"
     },
     "Opt-Sheriff,8": {
         "0": "Deputy Gets Promoted To Sheriff",
+        "9": "Deputy wird zu Sheriff",
         "13": "\u6355\u5feb\u53ef\u4ee5\u664b\u5347"
     },
     "Opt-Sheriff,9": {
         "0": "Deputy Keeps Handcuffs When Promoted",
+        "9": "Deputy beh\u00e4lt Handschellen wenn bef\u00f6rdert",
         "13": "\u6355\u5feb\u664b\u5347\u540e\u4fdd\u7559\u624b\u94d0\u6280\u80fd"
     },
     "Opt-Sheriff,100": {
         "0": "<color=#CCCCCCFF>Off</color>",
+        "9": "<color=#CCCCCCFF>Aus</color>",
         "13": "<color=#CCCCCCFF>\u5173\u95ed</color>"
     },
     "Opt-Sheriff,101": {
         "0": "<color=#FFFF00FF>On (Immediately)</color>",
+        "9": "<color=#FFFF00FF>An (Sofort)</color>",
         "13": "<color=#FFFF00FF>\u5f00\u542f (\u9a6c\u4e0a)</color>"
     },
     "Opt-Sheriff,102": {
         "0": "<color=#FFFF00FF>On (After Meeting)</color>",
+        "9": "<color=#FFFF00FF>An (Nach Meeting)</color>",
         "13": "<color=#FFFF00FF>\u5f00\u542f (\u4f1a\u8bae\u540e)</color>"
     },
     "Opt-Lighter,1": {
         "0": "Vision On Lights On",
+        "9": "Sichtweise wenn Lichter an",
         "13": "\u5f00\u706f\u65f6\u89c6\u91ce"
     },
     "Opt-Lighter,2": {
         "0": "Vision On Lights Off",
+        "9": "Sichtweise wenn Lichter aus",
         "13": "\u7834\u574f\u706f\u5149\u65f6\u89c6\u91ce"
     },
     "Opt-Lighter,3": {
         "0": "Flashlight Width",
+        "9": "Reichweite der Taschenlampe",
         "13": "\u706f\u5149\u5bbd\u5ea6"
     },
     "Opt-Detective,1": {
         "0": "Anonymous Footprints",
+        "9": "Anonyme Fu\u00dfabdr\u00fccke",
         "13": "\u811a\u5370\u989c\u8272\u533f\u540d"
     },
     "Opt-Detective,2": {
         "0": "Footprint Intervall",
+        "9": "Intervall f\u00fcr Fu\u00dfabdr\u00fccke",
         "13": "\u811a\u5370\u751f\u6210\u95f4\u9694\u65f6\u95f4"
     },
     "Opt-Detective,3": {
         "0": "Footprint Duration",
+        "9": "Dauer der Fu\u00dfabdr\u00fccke",
         "13": "\u811a\u5370\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-Detective,4": {
         "0": "Time Where Detective Reports Will Have Name",
+        "9": "Zeitpunkt ab dem Detective Reports einen Namen haben",
         "13": "\u62a5\u544a\u53ef\u4ee5\u5f97\u77e5\u51f6\u624b\u59d3\u540d\u7684\u65f6\u95f4"
     },
     "Opt-Detective,5": {
         "0": "Time Where Detective Reports Will Have Color Type",
+        "9": "Zeitpunkt ab dem Detective Reports eine Farbe haben",
         "13": "\u62a5\u544a\u53ef\u4ee5\u5f97\u77e5\u51f6\u624b\u989c\u8272\u7c7b\u578b\u7684\u65f6\u95f4"
     },
     "Opt-TimeMaster,1": {
         "0": "Time Master Cooldown",
+        "9": "Time Master Cooldown",
         "13": "\u65f6\u95f4\u4e4b\u76fe\u51b7\u5374\u65f6\u95f4"
     },
     "Opt-TimeMaster,2": {
         "0": "Rewind Time",
+        "9": "Zeit, die zur\u00fcckgespult wird",
         "13": "\u65f6\u5149\u4e4b\u76fe\u56de\u6eaf\u65f6\u957f"
     },
     "Opt-TimeMaster,3": {
         "0": "Time Master Shield Duration",
+        "9": "Time Master Schild Cooldown",
         "13": "\u65f6\u95f4\u4e4b\u76fe\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-Medic,1": {
         "0": "Show Shielded Player",
+        "9": "Gesch\u00fctzten Spieler anzeigen",
         "13": "\u53ef\u89c1\u533b\u751f\u62a4\u76fe\u7684\u73a9\u5bb6"
     },
     "Opt-Medic,2": {
         "0": "Shielded Player Sees Murder Attempt",
+        "9": "Gesch\u00fctzter Spieler sieht Killversuch",
         "13": "\u88ab\u4fdd\u62a4\u8005\u4f1a\u770b\u5230\u8c0b\u6740\u4f01\u56fe"
     },
     "Opt-Medic,3": {
         "0": "Shield Will Be Activated",
+        "9": "Schild wird aktiv sein",
         "13": "\u62a4\u76fe\u6fc0\u6d3b\u65f6\u95f4"
     },
     "Opt-Medic,4": {
         "0": "Medic Sees Murder Attempt On Shielded Player",
+        "9": "Medic sieht Killversuch auf gesch\u00fctzten Spieler",
         "13": "\u533b\u751f\u53ef\u4ee5\u770b\u5230\u6709\u4eba\u4f01\u56fe\u8c0b\u6740\u88ab\u4fdd\u62a4\u8005"
     },
     "Opt-Medic,100": {
         "0": "Everyone",
+        "9": "Jeder",
         "13": "\u6240\u6709\u4eba"
     },
     "Opt-Medic,101": {
         "0": "Shielded + Medic",
+        "9": "Gesch\u00fctzter + Medic",
         "13": "\u88ab\u4fdd\u62a4\u8005\u4e0e\u533b\u751f"
     },
     "Opt-Medic,102": {
         "0": "Medic",
+        "9": "Medic sieht Killversuch auf gesch\u00fctzten Spieler",
         "13": "\u533b\u751f"
     },
     "Opt-Medic,110": {
         "0": "Instantly",
+        "9": "Sofort",
         "13": "\u7acb\u5373\u751f\u6548"
     },
     "Opt-Medic,111": {
         "0": "Instantly, Visible\nAfter Meeting",
+        "9": "Sofort, Sichtbar nach Meeting",
         "13": "\u7acb\u5373\u751f\u6548 (\u4f1a\u8bae\u540e\u663e\u793a)"
     },
     "Opt-Medic,112": {
         "0": "After Meeting",
+        "9": "Nach Meeting",
         "13": "\u4f1a\u8bae\u540e\u751f\u6548"
     },
     "Opt-Swapper,1": {
         "0": "Swapper Can Call Emergency Meeting",
+        "9": "Swapper kann Meetings einberufen",
         "13": "\u53ef\u4ee5\u53ec\u5f00\u7d27\u6025\u4f1a\u8bae"
     },
     "Opt-Swapper,2": {
         "0": "Swapper Can Only Swap Others",
+        "9": "Swapper kann nur andere swappen",
         "13": "\u4ec5\u53ef\u4ea4\u6362\u5176\u4ed6\u73a9\u5bb6\u7684\u5f97\u7968"
     },
     "Opt-Swapper,3": {
         "0": "Initial Swap Charges",
+        "9": "Anf\u00e4ngliche Swap-Anzahl",
         "13": "\u521d\u59cb\u6362\u7968\u6b21\u6570"
     },
     "Opt-Swapper,4": {
         "0": "Number Of Tasks Needed For Recharging",
+        "9": "Anzahl an Aufhaben f\u00fcr Wiederaufladen ben\u00f6tigt",
         "13": "\u589e\u52a0\u6b21\u6570\u6240\u9700\u7684\u4efb\u52a1\u6570\u91cf"
     },
     "Opt-Seer,1": {
         "0": "Seer Mode",
+        "9": "Seer Modus",
         "13": "\u9884\u77e5\u6a21\u5f0f"
     },
     "Opt-Seer,2": {
         "0": "Seer Limit Soul Duration",
+        "9": "Seer Limit f\u00fcr Soul Dauer",
         "13": "\u9650\u5236\u7075\u9b42\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-Seer,3": {
         "0": "Seer Soul Duration",
+        "9": "Seer Soul Duration",
         "13": "\u7075\u9b42\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-Seer,100": {
         "0": "Show Death Flash + Souls",
+        "9": "Flashindikator f\u00fcr Tod + Seelen anzeigen",
         "13": "\u663e\u793a\u6b7b\u4ea1\u95ea\u5149 + \u7075\u9b42"
     },
     "Opt-Seer,101": {
         "0": "Show Death Flash",
+        "9": "Flashindikator f\u00fcr Tod anzeigen",
         "13": "\u663e\u793a\u6b7b\u4ea1\u95ea\u5149"
     },
     "Opt-Seer,102": {
         "0": "Show Souls",
+        "9": "Seelen anzeigen",
         "13": "\u663e\u793a\u7075\u9b42"
     },
     "Opt-Hacker,1": {
         "0": "Hacker Cooldown",
+        "9": "Hacker Cooldown",
         "13": "\u9ed1\u5165\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Hacker,2": {
         "0": "Hacker Duration",
+        "9": "Hacker Dauer",
         "13": "\u9ed1\u4eba\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-Hacker,3": {
         "0": "Hacker Only Sees Color Type",
+        "9": "Hacker kann Farbtyp sehen",
         "13": "\u9ed1\u5165\u5730\u56fe\u53ea\u80fd\u770b\u5230\u989c\u8272\u7c7b\u578b"
     },
     "Opt-Hacker,4": {
         "0": "Max Mobile Gadget Charges",
+        "9": "Maximale Anzahl an Nutzungen f\u00fcr Mobile Gadgets",
         "13": "\u79fb\u52a8\u8bbe\u5907\u6700\u5927\u80fd\u91cf"
     },
     "Opt-Hacker,5": {
         "0": "Number Of Tasks Needed For Recharging",
+        "9": "Anzahl an Aufgaben ben\u00f6tigt f\u00fcr Wiederaufladen",
         "13": "\u5145\u80fd\u9700\u8981\u5b8c\u6210\u7684\u4efb\u52a1\u6570"
     },
     "Opt-Hacker,6": {
         "0": "Cant Move During Mobile Gadget Duration",
+        "9": "Kann w\u00e4hrend Nutzung von Gadgets nicht bewegen",
         "13": "\u5728\u4f7f\u7528\u79fb\u52a8\u8bbe\u5907\u65f6\u79fb\u52a8\u4e0d\u80fd"
     },
     "Opt-Tracker,1": {
         "0": "Tracker Update Intervall",
+        "9": "Tracker Aktualisierungs-Intervall ",
         "13": "\u7bad\u5934\u66f4\u65b0\u95f4\u9694\u65f6\u95f4"
     },
     "Opt-Tracker,2": {
         "0": "Tracker Reset Target After Meeting",
+        "9": "Tracker Ziel nach Meeting zur\u00fccksetzen",
         "13": "\u4f1a\u8bae\u540e\u91cd\u7f6e\u8ffd\u8e2a\u76ee\u6807"
     },
     "Opt-Tracker,3": {
         "0": "Tracker Can Track Corpses",
+        "9": "Tracker kann Leichen tracken",
         "13": "\u53ef\u4ee5\u8ffd\u8e2a\u5c38\u4f53"
     },
     "Opt-Tracker,4": {
         "0": "Corpses Tracking Cooldown",
+        "9": "Leichen-Tracking Cooldown",
         "13": "\u8ffd\u8e2a\u5c38\u4f53\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Tracker,5": {
         "0": "Corpses Tracking Duration",
+        "9": "Leichen-Tracking Dauer",
         "13": "\u8ffd\u8e2a\u5c38\u4f53\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-Tracker,6": {
         "0": "How Tracker Gets Target Location",
+        "9": "Wie Tracker Standort vom Ziel erh\u00e4lt",
         "13": "\u8ffd\u8e2a\u8005\u5982\u4f55\u83b7\u53d6\u76ee\u6807\u4f4d\u7f6e"
     },
     "Opt-Tracker,100": {
         "0": "Arrow Only",
+        "9": "Nur Pfeil",
         "13": "\u53ea\u663e\u793a\u7bad\u5934"
     },
     "Opt-Tracker,101": {
         "0": "Proximity Dectector Only",
+        "9": "Nur N\u00e4herungssensor",
         "13": "\u53ea\u663e\u793a\u5371\u9669\u6307\u793a\u5668"
     },
     "Opt-Tracker,102": {
         "0": "Arrow + Proximity",
+        "9": "Pfeil + N\u00e4herungssensor",
         "13": "\u7bad\u5934\u4e0e\u5371\u9669\u6307\u793a\u5668"
     },
     "Opt-Snitch,1": {
         "0": "Task Count Where The Snitch Will Be Revealed",
+        "9": "Aufgabenanzahl bei der Snitch angezeigt wird",
         "13": "\u5269\u4f59\u591a\u5c11\u4efb\u52a1\u4f1a\u88ab\u53d1\u73b0"
     },
     "Opt-Snitch,2": {
         "0": "Information Mode",
+        "9": "Informations-Modus",
         "13": "\u4fe1\u606f\u63d0\u793a\u6a21\u5f0f"
     },
     "Opt-Snitch,3": {
         "0": "Targets",
+        "9": "Ziele",
         "13": "\u63ed\u793a\u76ee\u6807"
     },
     "Opt-Snitch,100": {
         "0": "Chat",
+        "9": "Chat",
         "13": "\u804a\u5929"
     },
     "Opt-Snitch,101": {
         "0": "Map",
+        "9": "Karte",
         "13": "\u5730\u56fe"
     },
     "Opt-Snitch,102": {
         "0": "Chat & Map",
+        "9": "Chat & Karte",
         "13": "\u804a\u5929\u548c\u5730\u56fe"
     },
     "Opt-Snitch,103": {
         "0": "Arrow",
+        "9": "Pfeil",
         "13": "\u7bad\u5934"
     },
     "Opt-Snitch,110": {
         "0": "All Evil Players",
+        "9": "Alle b\u00f6sen Spieler",
         "13": "\u6240\u6709\u90aa\u6076\u73a9\u5bb6"
     },
     "Opt-Snitch,111": {
         "0": "Killing Players",
+        "9": "Alle t\u00f6tenden Spieler",
         "13": "\u6240\u6709\u5e26\u5200\u73a9\u5bb6"
     },
     "Opt-Spy,1": {
         "0": "Spy Can Die To Sheriff",
+        "9": "Spy kann an Sheriff sterben",
         "13": "\u53ef\u88ab\u8b66\u957f\u51fb\u6740"
     },
     "Opt-Spy,2": {
         "0": "Impostors Can Kill Anyone If There Is A Spy",
+        "9": "Impostor k\u00f6nnen jeden killen wenn es einen Spy gibt",
         "13": "\u5367\u5e95\u5b58\u5728\u65f6\u5185\u9b3c\u53ef\u4ee5\u51fb\u6740\u4efb\u4f55\u73a9\u5bb6"
     },
     "Opt-Spy,3": {
         "0": "Spy Can Enter Vents",
+        "9": "Spy kann Vents verwenden",
         "13": "\u5367\u5e95\u53ef\u4ee5\u4f7f\u7528\u7ba1\u9053"
     },
     "Opt-Spy,4": {
         "0": "Spy Has Impostor Vision",
+        "9": "Spy hat Impostor Sichtweite",
         "13": "\u5367\u5e95\u62e5\u6709\u5185\u9b3c\u89c6\u91ce"
     },
     "Opt-Portalmaker,1": {
         "0": "Portalmaker Cooldown",
+        "9": "Portalmaker Cooldown",
         "13": "\u653e\u7f6e\u4f20\u9001\u95e8\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Portalmaker,2": {
         "0": "Use Portal Cooldown",
+        "9": "Cooldown f\u00fcr Verwendung von Portalen",
         "13": "\u4f7f\u7528\u4f20\u9001\u95e8\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Portalmaker,3": {
         "0": "Portalmaker Log Only Shows Color Type",
+        "9": "Portalmaker Log zeigt nur Farbentyp",
         "13": "\u4f20\u9001\u95e8\u65e5\u5fd7\u53ea\u663e\u793a\u989c\u8272\u7c7b\u578b"
     },
     "Opt-Portalmaker,4": {
         "0": "Log Shows Time",
+        "9": "Log zeigt Zeitpunkt an",
         "13": "\u4f20\u9001\u95e8\u65e5\u5fd7\u663e\u793a\u65f6\u95f4"
     },
     "Opt-Portalmaker,5": {
         "0": "Can Port To Portal From Everywhere",
+        "9": "Kann von \u00fcberall zum Portal teleportieren",
         "13": "\u53ef\u4ee5\u4ece\u4efb\u4f55\u5730\u70b9\u4f20\u9001\u81f3\u4f20\u9001\u95e8"
     },
     "Opt-SecurityGuard,1": {
         "0": "Security Guard Cooldown",
+        "9": "Security Guard Cooldown",
         "13": "\u6280\u80fd\u51b7\u5374\u65f6\u95f4"
     },
     "Opt-SecurityGuard,2": {
         "0": "Security Guard Number Of Screws",
+        "9": "Security Guard Anzahl an Schrauben",
         "13": "\u53ef\u4f7f\u7528\u7684\u87ba\u4e1d\u603b\u6570"
     },
     "Opt-SecurityGuard,3": {
         "0": "Number Of Screws Per Cam",
+        "9": "Anzahl an Schrauben pro Cam",
         "13": "\u5b89\u88c5\u6444\u50cf\u5934\u9700\u8981\u7684\u87ba\u4e1d\u6570"
     },
     "Opt-SecurityGuard,4": {
         "0": "Number Of Screws Per Vent",
+        "9": "Anzahl an Schrauben pro Vent",
         "13": "\u5c01\u9501\u7ba1\u9053\u9700\u8981\u7684\u87ba\u4e1d\u6570"
     },
     "Opt-SecurityGuard,5": {
         "0": "Security Guard Duration",
+        "9": "Security Guard Dauer",
         "13": "\u89c2\u5bdf\u76d1\u63a7\u53ef\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-SecurityGuard,6": {
         "0": "Gadget Max Charges",
+        "9": "Maximale Gadget Aufladungen",
         "13": "\u79fb\u52a8\u6444\u50cf\u5934\u6700\u5927\u80fd\u91cf"
     },
     "Opt-SecurityGuard,7": {
         "0": "Number Of Tasks Needed For Recharging",
+        "9": "Anzahl an Aufgaben f\u00fcr Wiederaufladen",
         "13": "\u5145\u80fd\u9700\u8981\u5b8c\u6210\u7684\u4efb\u52a1\u6570"
     },
     "Opt-SecurityGuard,8": {
         "0": "Cant Move During Cam Duration",
+        "9": "Kann sich w\u00e4hrend Kameradauer nicht bewegen",
         "13": "\u4e0d\u53ef\u4ee5\u5728\u4f7f\u7528\u79fb\u52a8\u8bbe\u5907\u65f6\u79fb\u52a8"
     },
     "Opt-Medium,1": {
         "0": "Medium Questioning Cooldown",
+        "9": "Medium Befragung Cooldown",
         "13": "\u901a\u7075\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Medium,2": {
         "0": "Medium Questioning Duration",
+        "9": "Medium Befragung Dauer",
         "13": "\u901a\u7075\u6240\u9700\u65f6\u95f4"
     },
     "Opt-Medium,3": {
         "0": "Each Soul Can Only Be Questioned Once",
+        "9": "Jede Seele kann nur einmal befragt werden",
         "13": "\u6bcf\u4e2a\u7075\u9b42\u53ea\u53ef\u88ab\u901a\u7075\u4e00\u6b21"
     },
     "Opt-Medium,4": {
         "0": "Chance That The Answer Contains \n    Additional Information",
+        "9": "Chance, dass die Antwort zus\u00e4tzliche Informationen enth\u00e4lt",
         "13": "\u8be2\u95ee\u65f6\u5305\u542b\u989d\u5916\u4fe1\u606f\u7684\u6982\u7387"
     },
     "Opt-Thief,1": {
         "0": "Thief Cooldown",
+        "9": "Thief Cooldown",
         "13": "\u76d7\u7a83\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Thief,2": {
         "0": "Thief Can Kill Sheriff",
+        "9": "Thief kann Sheriff killen",
         "13": "\u53ef\u4ee5\u76d7\u7a83\u8b66\u957f"
     },
     "Opt-Thief,3": {
         "0": "Thief Has Impostor Vision",
+        "9": "Thief hat Impostor Sichtweite",
         "13": "\u62e5\u6709\u5185\u9b3c\u89c6\u91ce"
     },
     "Opt-Thief,4": {
         "0": "Thief Can Use Vents",
+        "9": "Thief kann Vents verwenden",
         "13": "\u53ef\u4ee5\u4f7f\u7528\u7ba1\u9053"
     },
     "Opt-Thief,5": {
         "0": "Thief Can Guess To Steal A Role (If Guesser)",
+        "9": "Thief kann guessen um eine Rolle zu stehlen (wenn Guesser)",
         "13": "\u53ef\u4ee5\u901a\u8fc7\u731c\u6d4b\u5077\u7a83\u804c\u4e1a(\u5982\u679c\u4e3a\u8d4c\u602a)"
     },
     "Opt-SchrodingersCat,1": {
         "0": "Kill Cooldown",
+        "9": "Kill Cooldown",
         "13": "\u51fb\u6740\u51b7\u5374"
     },
     "Opt-SchrodingersCat,3": {
         "0": "Killer suicides after 15s",
+        "9": "Killer stirbt nach 15 Sekunden",
         "13": "\u51fb\u6740\u800515\u79d2\u540e\u81ea\u6740"
     },
     "Opt-SchrodingersCat,4": {
         "0": "Cant Kill Until Last One On Team",
+        "9": "Kann nicht killen bis Letzter im Team",
         "13": "\u9635\u8425\u53ea\u5269\u81ea\u5df1\u524d\u4e0d\u53ef\u51fb\u6740"
     },
     "Opt-SchrodingersCat,5": {
         "0": "Becomes which team if exiled",
+        "9": "Zu welchem Team wird er, wenn er verbannt wird",
         "13": "\u88ab\u653e\u9010\u65f6\u52a0\u5165\u54ea\u4e2a\u9635\u8425"
     },
     "Opt-SchrodingersCat,6": {
         "0": "Hide Schrodinger's Cat Role",
+        "9": "Schr\u00f6dingers Katze Rolle verbergen",
         "13": "\u9690\u85cf\u859b\u5b9a\u8c14\u7684\u732b\u804c\u4e1a"
     },
     "Opt-SchrodingersCat,7": {
         "0": "Can Choose Which Team To Be On",
+        "9": "Kann sich aussuchen in welchem Team er sein will",
         "13": "\u5b8c\u6210\u4efb\u52a1\u540e\u53ef\u9009\u62e9\u9635\u8425"
     },
     "Opt-SchrodingersCat,100": {
         "0": "None",
+        "9": "Keins",
         "13": "\u65e0"
     },
     "Opt-SchrodingersCat,101": {
         "0": "Crewmate",
+        "9": "Crewmate",
         "13": "\u8239\u5458"
     },
     "Opt-SchrodingersCat,102": {
         "0": "Random",
+        "9": "Zuf\u00e4llig",
         "13": "\u968f\u673a"
     },
     "Opt-Trapper,1": {
         "0": "Trapper Cooldown",
+        "9": "Trapper Cooldown",
         "13": "\u8bbe\u9677\u6280\u80fd\u51b7\u5374"
     },
     "Opt-Trapper,2": {
         "0": "Max Traps Charges",
+        "9": "Maximale Anzahl an Aufladungen",
         "13": "\u6700\u5927\u9677\u9631\u6570"
     },
     "Opt-Trapper,3": {
         "0": "Number Of Tasks Needed For Recharging",
+        "9": "Anzahl an Aufgaben f\u00fcr Wiederaufladung",
         "13": "\u9677\u9631\u5e08\u5145\u80fd\u6240\u9700\u5b8c\u6210\u4efb\u52a1\u6570"
     },
     "Opt-Trapper,4": {
         "0": "Trap Needed Trigger To Reveal",
+        "9": "Trap ben\u00f6tigt Ausl\u00f6sen um anzuzeigen",
         "13": "\u9677\u9631\u89e6\u53d1\u63d0\u793a\u6240\u9700\u4eba\u6570"
     },
     "Opt-Trapper,5": {
         "0": "Show Anonymous Map",
+        "9": "Zeigt anonyme Map",
         "13": "\u663e\u793a\u533f\u540d\u5730\u56fe"
     },
     "Opt-Trapper,6": {
         "0": "Trap Information Type",
+        "9": "Informationen-Typ",
         "13": "\u9677\u9631\u4fe1\u606f\u7c7b\u578b"
     },
     "Opt-Trapper,7": {
         "0": "Trap Duration",
+        "9": "Trap Dauer",
         "13": "\u653e\u7f6e\u9677\u9631\u6240\u9700\u65f6\u95f4"
     },
     "Opt-Trapper,100": {
         "0": "Role",
+        "9": "Rolle",
         "13": "\u804c\u4e1a"
     },
     "Opt-Trapper,101": {
         "0": "Good/Evil Role",
+        "9": "Gute/B\u00f6se Rolle",
         "13": "\u6b63\u4e49/\u90aa\u6076\u804c\u4e1a"
     },
     "Opt-Trapper,102": {
         "0": "Name",
+        "9": "Name",
         "13": "\u540d\u79f0"
     },
     "Opt-Bloody,1": {
         "0": "Bloody Quantity",
+        "9": "Bloody Anzahl",
         "13": "\u9644\u52a0\u804c\u4e1a\u6570\u91cf"
     },
     "Opt-Bloody,2": {
         "0": "Trail Duration",
+        "9": "Dauer der Spur",
         "13": "\u8840\u8ff9\u6301\u7eed\u65f6\u95f4"
     },
     "Opt-AntiTeleport,1": {
         "0": "Anti Teleport Quantity",
+        "9": "Anti Teleport Anzahl",
         "13": "\u9644\u52a0\u804c\u4e1a\u6570\u91cf"
     },
     "Opt-Bait,1": {
         "0": "Bait Quantity",
+        "9": "Bait Anzahl",
         "13": "\u9644\u52a0\u804c\u4e1a\u6570\u91cf"
     },
     "Opt-Bait,2": {
         "0": "Bait Report Delay Min",
+        "9": "Minimum an Verz\u00f6gerung bis Report",
         "13": "\u6700\u5c0f\u62a5\u544a\u5ef6\u8fdf"
     },
     "Opt-Bait,3": {
         "0": "Bait Report Delay Max",
+        "9": "Maximum an Verz\u00f6gerung bis Report",
         "13": "\u6700\u5927\u62a5\u544a\u5ef6\u8fdf"
     },
     "Opt-Bait,4": {
         "0": "Warn The Killer With A Flash",
+        "9": "Warne den Killer mit einer Flash",
         "13": "\u7528\u95ea\u5149\u8b66\u544a\u5373\u5c06\u62a5\u544a\u7684\u73a9\u5bb6"
     },
     "Opt-Lovers,1": {
         "0": "Chance That One Lover Is Impostor",
+        "9": "Chance, dass ein Lover Impostor ist",
         "13": "\u4e00\u4e2a\u604b\u4eba\u662f\u5185\u9b3c\u7684\u6982\u7387"
     },
     "Opt-Lovers,2": {
         "0": "Both Lovers Die",
+        "9": "Beide Lover sterben",
         "13": "\u604b\u4eba\u5171\u751f\u6b7b"
     },
     "Opt-Lovers,3": {
         "0": "Enable Lover Chat",
+        "9": "Lover Chat aktivieren",
         "13": "\u542f\u7528\u604b\u4eba\u79c1\u5bc6\u804a\u5929"
     },
     "Opt-Sunglasses,1": {
         "0": "Sunglasses Quantity",
+        "9": "Sunglasses Anzahl",
         "13": "\u9644\u52a0\u804c\u4e1a\u6570\u91cf"
     },
     "Opt-Sunglasses,2": {
         "0": "Vision With Sunglasses",
+        "9": "Sichtweite mit Sunglasses",
         "13": "\u89c6\u91ce"
     },
     "Opt-Mini,1": {
         "0": "Mini Growing Up Duration",
+        "9": "Dauer des Wachsens vom Mini",
         "13": "\u6210\u957f\u6240\u9700\u65f6\u95f4"
     },
     "Opt-Mini,2": {
         "0": "Mini Grows Up In Meeting",
+        "9": "Mini w\u00e4chst in Meeting",
         "13": "\u5728\u4f1a\u8bae\u4e0a\u6210\u957f"
     },
     "Opt-Mini,3": {
         "0": "Maximum Kicks Mini Suffers",
+        "9": "Maximum Kicks Mini Suffers",
         "13": "\u5141\u8bb8\u88ab\u8e22\u6700\u5927\u6b21\u6570"
     },
     "Opt-Mini,4": {
         "0": "Age At Which Mini Is Heavy",
+        "9": "Alter bei dem Mini gro\u00df ist",
         "13": "\u53d8\u5f97\u6c89\u91cd\u7684\u5e74\u9f84"
     },
     "Opt-Mini,5": {
         "0": "Really No Mini :(",
+        "9": "Wirklich kein Mini :(",
         "13": "\u542f\u7528\u5047\u8ff7\u4f60\u8239\u5458 :("
     },
     "Opt-Vip,1": {
         "0": "VIP Quantity",
+        "9": "VIP Anzahl",
         "13": "\u9644\u52a0\u804c\u4e1a\u6570\u91cf"
     },
     "Opt-Vip,2": {
         "0": "Show Team Color",
+        "9": "Teamfarbe anzeigen",
         "13": "\u95ea\u5c4f\u663e\u793a\u9635\u8425\u989c\u8272"
     },
     "Opt-Invert,1": {
         "0": "Modifier Quantity",
+        "9": "Modifikation Anzahl",
         "13": "\u9644\u52a0\u804c\u4e1a\u6570\u91cf"
     },
     "Opt-Invert,2": {
         "0": "Number Of Meetings Inverted",
+        "9": "Anzahl an Meetings mit vertauschter Steuerung",
         "13": "\u79fb\u52a8\u76f8\u53cd\u7684\u4f1a\u8bae\u6570\u91cf"
     },
     "Opt-Chameleon,1": {
         "0": "Chameleon Quantity",
+        "9": "Chameleon Anzahl",
         "13": "\u9644\u52a0\u804c\u4e1a\u6570\u91cf"
     },
     "Opt-Chameleon,2": {
         "0": "Time Until Fading Starts",
+        "9": "Zeit bis Verblassen startet",
         "13": "\u9690\u8eab\u5f00\u59cb\u6240\u9700\u65f6\u95f4"
     },
     "Opt-Chameleon,3": {
         "0": "Fade Duration",
+        "9": "Dauer des Verblassens",
         "13": "\u9690\u8eab\u6240\u9700\u65f6\u95f4"
     },
     "Opt-Chameleon,4": {
         "0": "Minimum Visibility",
+        "9": "Minimale Sicht",
         "13": "\u6700\u5c0f\u9690\u8eab\u53ef\u89c1\u5ea6"
     },
     "Opt-Guessers-General,1": {
         "0": "Number of Crew Guessers",
+        "9": "Anzahl an Crew Guessern",
         "13": "\u8239\u5458\u9635\u8425\u8d4c\u602a\u6570\u91cf"
     },
     "Opt-Guessers-General,2": {
         "0": "Number of Neutral Guessers",
+        "9": "Anzahl an Neutralen Guessern\n",
         "13": "\u4e2d\u7acb\u9635\u8425\u8d4c\u602a\u6570\u91cf"
     },
     "Opt-Guessers-General,3": {
         "0": "Number of Impostor Guessers",
+        "9": "Anzahl an Impostor Guessern",
         "13": "\u5185\u9b3c\u9635\u8425\u8d4c\u602a\u6570\u91cf"
     },
     "Opt-Guessers-General,4": {
         "0": "Force Jackal Guesser",
+        "9": "Jackal ist immer Guesser",
         "13": "\u5f3a\u5236\u8c7a\u72fc\u4e3a\u8d4c\u602a"
     },
     "Opt-Guessers-General,5": {
         "0": "Sidekick Is Always Guesser",
+        "9": "Sidekick ist immer Guesser",
         "13": "\u8ddf\u73ed\u6c38\u8fdc\u4e3a\u8d4c\u602a"
     },
     "Opt-Guessers-General,6": {
         "0": "Force Thief Guesser",
+        "9": "Thief ist immer Guesser",
         "13": "\u5f3a\u5236\u8eab\u4efd\u7a83\u8d3c\u6210\u4e3a\u8d4c\u602a"
     },
     "Opt-Guessers-General,7": {
         "0": "Guessers Can Have A Modifier",
+        "9": "Guesser k\u00f6nnen Modifikation haben",
         "13": "\u8d4c\u602a\u53ef\u4ee5\u62e5\u6709\u4e00\u4e2a\u9644\u52a0\u804c\u4e1a"
     },
     "Opt-Guessers-General,8": {
         "0": "Guesser Number Of Shots",
+        "9": "Anzahl an Sch\u00fcssen pro Guesser",
         "13": "\u8d4c\u602a\u53ef\u731c\u6d4b\u6b21\u6570"
     },
     "Opt-Guessers-General,9": {
         "0": "Guesser Can Shoot Multiple Times Per Meeting",
+        "9": "Guesser kann mehrmals pro Meeting schie\u00dfen",
         "13": "\u8d4c\u602a\u53ef\u4ee5\u5728\u4e00\u8f6e\u4f1a\u8bae\u4e2d\u591a\u6b21\u731c\u6d4b"
     },
     "Opt-Guessers-General,10": {
         "0": "Number Of Tasks Needed To Unlock Shooting\nFor Crew Guesser",
+        "9": "Anzahl an Aufgaben ben\u00f6tigt bevor Schie\u00dfen m\u00f6glich wird",
         "13": "\u8239\u5458\u8d4c\u602a\u89e3\u9501\u731c\u6d4b\u6280\u80fd\u6240\u9700\u5b8c\u6210\u4efb\u52a1\u6570"
     },
     "Opt-Guessers-General,11": {
         "0": "Guesses Ignore The Medic Shield",
+        "9": "Medic Shield wird bei Schuss ignoriert",
         "13": "\u8d4c\u602a\u731c\u6d4b\u65e0\u89c6\u533b\u751f\u62a4\u76fe"
     },
     "Opt-Guessers-General,12": {
         "0": "Evil Guesser Can Guess The Spy",
+        "9": "B\u00f6se Guesser k\u00f6nnen den Spy erraten",
         "13": "\u90aa\u6076\u7684\u8d4c\u602a\u53ef\u4ee5\u731c\u6d4b\u5367\u5e95"
     },
     "Opt-Guessers-General,13": {
         "0": "Guesser Can't Guess Snitch When Tasks Completed",
+        "9": "Guesser k\u00f6nnen Snitch nicht erraten wenn alle Aufgaben erledigt",
         "13": "\u8d4c\u602a\u65e0\u6cd5\u731c\u6d4b\u5b8c\u6210\u4efb\u52a1\u7684\u544a\u5bc6\u8005"
     },
     "Opt-HideNSeek-Main,1": {
@@ -1557,418 +1875,522 @@
     },
     "Opt-Shifter,1": {
         "0": "Can Shift Medic Shield",
+        "9": "Kann Medic Schild wechseln",
         "13": "\u53ef\u4ee5\u4ea4\u6362\u533b\u751f\u62a4\u76fe"
     },
     "Role-Name,0": {
         "0": "Crewmate",
+        "9": "Crewmate",
         "13": "\u8239\u5458"
     },
     "Role-IntroDesc,0": {
         "0": "Find the Impostors",
+        "9": "Finde die Impostor",
         "13": "\u5b8c\u6210\u4efb\u52a1\u5e76\u627e\u51fa\u5185\u9b3c"
     },
     "Role-ShortDesc,0": {
         "0": "Find the Impostors",
+        "9": "Finde die Impostor",
         "13": "\u5b8c\u6210\u4efb\u52a1\u5e76\u627e\u51fa\u5185\u9b3c"
     },
     "Role-Name,1": {
         "0": "Mayor",
+        "9": "Mayor",
         "13": "\u5e02\u957f"
     },
     "Role-IntroDesc,1": {
         "0": "Your vote counts twice",
+        "9": "Dein Vote z\u00e4hlt doppelt",
         "13": "\u4f60\u7684\u6295\u7968\u66f4\u6709\u5206\u91cf"
     },
     "Role-ShortDesc,1": {
         "0": "Your vote counts twice",
+        "9": "Dein Vote z\u00e4hlt doppelt",
         "13": "\u4f60\u7684\u6295\u7968\u66f4\u6709\u5206\u91cf"
     },
     "Role-Name,2": {
         "0": "Portalmaker",
+        "9": "Portalmaker",
         "13": "\u5b88\u95e8\u4eba"
     },
     "Role-IntroDesc,2": {
         "0": "You can create portals",
+        "9": "Du kannst Portale erstellen",
         "13": "\u4f60\u53ef\u4ee5\u653e\u7f6e\u4f20\u9001\u95e8"
     },
     "Role-ShortDesc,2": {
         "0": "You can create portals",
+        "9": "Du kannst Portale erstellen",
         "13": "\u4f60\u53ef\u4ee5\u653e\u7f6e\u4f20\u9001\u95e8"
     },
     "Role-Name,3": {
         "0": "Engineer",
+        "9": "Engineer",
         "13": "\u5de5\u7a0b\u5e08"
     },
     "Role-IntroDesc,3": {
         "0": "Maintain important systems on the ship",
+        "9": "Warte wichtiger Systeme auf dem Schiff",
         "13": "\u7ef4\u4fee\u98de\u8239\u4e0a\u7684\u91cd\u8981\u8bbe\u5907"
     },
     "Role-ShortDesc,3": {
         "0": "Repair the ship",
+        "9": "Repariere das Schiff",
         "13": "\u7ef4\u4fee\u98de\u8239"
     },
     "Role-Name,4": {
         "0": "Sheriff",
+        "9": "Sheriff",
         "13": "\u8b66\u957f"
     },
     "Role-IntroDesc,4": {
         "0": "Shoot the <color=#FF1919FF>Impostors</color>",
+        "9": "Erschie\u00dfe die <color=#FF1919FF>Impostor</color>",
         "13": "\u6bd9\u4e86<color=#FF1919FF>\u5185\u9b3c</color>"
     },
     "Role-ShortDesc,4": {
         "0": "Shoot the Impostors",
+        "9": "Erschie\u00dfe die Impostor",
         "13": "\u6bd9\u4e86\u5185\u9b3c"
     },
     "Role-Name,5": {
         "0": "Deputy",
+        "9": "Deputy",
         "13": "\u6355\u5feb"
     },
     "Role-IntroDesc,5": {
         "0": "Handcuff the <color=#FF1919FF>Impostors</color>",
+        "9": "Lege den <color=#FF1919FF>Impostorn</color> Handschellen an",
         "13": "\u7528\u624b\u94d0\u94d0\u4f4f<color=#FF1919FF>\u5185\u9b3c</color>"
     },
     "Role-ShortDesc,5": {
         "0": "Handcuff the Impostors",
+        "9": "Lege den Impostorn Handschellen an",
         "13": "\u7ed9\u5185\u9b3c\u5e26\u4e0a\u624b\u94d0"
     },
     "Role-Name,6": {
         "0": "Lighter",
+        "9": "Lighter",
         "13": "\u6267\u706f\u4eba"
     },
     "Role-IntroDesc,6": {
         "0": "Your light never goes out",
+        "9": "Dein Licht geht nie aus",
         "13": "\u4f60\u7684\u5149\u8292\u6c38\u4e0d\u7184\u706d"
     },
     "Role-ShortDesc,6": {
         "0": "Your light never goes out",
+        "9": "Dein Licht geht nie aus",
         "13": "\u4f60\u7684\u5149\u8292\u6c38\u4e0d\u7184\u706d"
     },
     "Role-Name,7": {
         "0": "Detective",
+        "9": "Detective",
         "13": "\u4fa6\u63a2"
     },
     "Role-IntroDesc,7": {
         "0": "Find the <color=#FF1919FF>Impostors</color> by examining footprints",
+        "9": "Finde die <color=#FF1919FF>Impostor</color> indem du Fu\u00dfspuren untersuchst",
         "13": "\u8ffd\u5bfb\u811a\u5370\u53d1\u73b0<color=#FF1919FF>\u5185\u9b3c</color>"
     },
     "Role-ShortDesc,7": {
         "0": "Examine footprints",
+        "9": "Untersuche Fu\u00dfspuren",
         "13": "\u8ffd\u5bfb\u811a\u5370"
     },
     "Role-Name,8": {
         "0": "Time Master",
+        "9": "Time Master",
         "13": "\u65f6\u95f4\u4e4b\u4e3b"
     },
     "Role-IntroDesc,8": {
         "0": "Save yourself with your time shield",
+        "9": "Besch\u00fctze dich selber mit dem Time Shield",
         "13": "\u7528\u4f60\u7684\u65f6\u95f4\u4e4b\u76fe\u4fdd\u62a4\u81ea\u5df1"
     },
     "Role-ShortDesc,8": {
         "0": "Use your time shield",
+        "9": "Nutze dein Time Shield",
         "13": "\u7528\u65f6\u95f4\u4e4b\u76fe"
     },
     "Role-Name,9": {
         "0": "Medic",
+        "9": "Medic",
         "13": "\u533b\u751f"
     },
     "Role-IntroDesc,9": {
         "0": "Protect someone with your shield",
+        "9": "Besch\u00fctze jemandem mit deinem Schild",
         "13": "\u7528\u4f60\u7684\u533b\u672f\u4fdd\u62a4\u67d0\u4eba"
     },
     "Role-ShortDesc,9": {
         "0": "Protect other players",
+        "9": "Besch\u00fctze andere Spieler",
         "13": "\u4fdd\u62a4\u5176\u4ed6\u73a9\u5bb6"
     },
     "Role-Name,10": {
         "0": "Swapper",
+        "9": "Swapper",
         "13": "\u6b63\u4e49\u7684\u6362\u7968\u5e08"
     },
     "Role-IntroDesc,10": {
         "0": "Swap votes to exile the <color=#FF1919FF>Impostors</color>",
+        "9": "Tausche Stimmen aus um die <color=#FF1919FF>Impostor</color> rauszuwerfen",
         "13": "\u901a\u8fc7\u6362\u7968\u6295\u51fa<color=#FF1919FF>\u5185\u9b3c</color>"
     },
     "Role-ShortDesc,10": {
         "0": "Swap votes",
+        "9": "Tausche Stimmen aus ",
         "13": "\u901a\u8fc7\u6362\u7968\u6295\u51fa\u5185\u9b3c"
     },
     "Role-Name,11": {
         "0": "Seer",
+        "9": "Seer",
         "13": "\u7075\u5a92"
     },
     "Role-IntroDesc,11": {
         "0": "You will see players die",
+        "9": "Du wirst Spieler sterben sehen",
         "13": "\u4f60\u80fd\u611f\u77e5\u6b7b\u4ea1"
     },
     "Role-ShortDesc,11": {
         "0": "You will see players die",
+        "9": "Du wirst Spieler sterben sehen",
         "13": "\u4f60\u80fd\u611f\u77e5\u6b7b\u4ea1"
     },
     "Role-Name,12": {
         "0": "Hacker",
+        "9": "Hacker",
         "13": "\u9ed1\u5ba2"
     },
     "Role-IntroDesc,12": {
         "0": "Hack systems to find the <color=#FF1919FF>Impostors</color>",
+        "9": "Hacke Systeme um die <color=#FF1919FF>Impostor</color> zu finden",
         "13": "\u9ed1\u5165\u98de\u8239\u7cfb\u7edf\u4ee5\u53d1\u73b0<color=#FF1919FF>\u5185\u9b3c</color>"
     },
     "Role-ShortDesc,12": {
         "0": "Hack to find the Impostors",
+        "9": "Hacke um die Impostor zu finden",
         "13": "\u9ed1\u5165\u7cfb\u7edf\u5bfb\u627e\u5185\u9b3c"
     },
     "Role-Name,13": {
         "0": "Tracker",
+        "9": "Tracker",
         "13": "\u8ffd\u8e2a\u8005"
     },
     "Role-IntroDesc,13": {
         "0": "Track the <color=#FF1919FF>Impostors</color> down",
+        "9": "Tracke die <color=#FF1919FF>Impostor</color>",
         "13": "\u8ffd\u8e2a<color=#FF1919FF>\u5185\u9b3c</color>"
     },
     "Role-ShortDesc,13": {
         "0": "Track the Impostors down",
+        "9": "Tracke die Impostor",
         "13": "\u8ffd\u8e2a\u5185\u9b3c"
     },
     "Role-Name,14": {
         "0": "Snitch",
+        "9": "Snitch",
         "13": "\u544a\u5bc6\u8005"
     },
     "Role-IntroDesc,14": {
         "0": "Finish your tasks to find the <color=#FF1919FF>Impostors</color>",
+        "9": "Erledige deine Aufgaben um die <color=#FF1919FF>Impostor</color> zu finden",
         "13": "\u5b8c\u6210\u4efb\u52a1\u4ee5\u53d1\u73b0<color=#FF1919FF>\u5185\u9b3c</color>"
     },
     "Role-ShortDesc,14": {
         "0": "Finish your tasks",
+        "9": "Erledige deine Aufgaben ",
         "13": "\u5b8c\u6210\u4efb\u52a1"
     },
     "Role-Name,15": {
         "0": "Spy",
+        "9": "Spy",
         "13": "\u5367\u5e95"
     },
     "Role-IntroDesc,15": {
         "0": "Confuse the <color=#FF1919FF>Impostors</color>",
+        "9": "Verwirre die <color=#FF1919FF>Impostor</color>",
         "13": "\u6df7\u5165<color=#FF1919FF>\u5185\u9b3c</color>\u4e4b\u4e2d"
     },
     "Role-ShortDesc,15": {
         "0": "Confuse the Impostors",
+        "9": "Verwirre die Impostor",
         "13": "\u6df7\u5165\u5185\u9b3c\u4e4b\u4e2d"
     },
     "Role-Name,16": {
         "0": "Security Guard",
+        "9": "Security Guard",
         "13": "\u4fdd\u5b89"
     },
     "Role-IntroDesc,16": {
         "0": "Seal vents and place cameras",
+        "9": "Verschlie\u00dfe Vents und platziere Kameras",
         "13": "\u5c01\u9501\u7ba1\u9053\u5e76\u653e\u7f6e\u6444\u50cf\u5934"
     },
     "Role-ShortDesc,16": {
         "0": "Seal vents and place cameras",
+        "9": "Verschlie\u00dfe Vents und platziere Kameras",
         "13": "\u5c01\u9501\u7ba1\u9053\u5e76\u653e\u7f6e\u6444\u50cf\u5934"
     },
     "Role-Name,17": {
         "0": "Medium",
+        "9": "Medium",
         "13": "\u901a\u7075\u5e08"
     },
     "Role-IntroDesc,17": {
         "0": "Question the souls of the dead to gain information",
+        "9": "Befrage die Seelen der Toten und erhalte Informationen",
         "13": "\u5bf9\u6b7b\u8005\u7684\u7075\u9b42\u901a\u7075\u6765\u83b7\u53d6\u4fe1\u606f"
     },
     "Role-ShortDesc,17": {
         "0": "Question the souls",
+        "9": "Befrage die Seelen ",
         "13": "\u5bf9\u7075\u9b42\u901a\u7075"
     },
     "Role-Name,18": {
         "0": "Trapper",
+        "9": "Trapper",
         "13": "\u9677\u9631\u5e08"
     },
     "Role-IntroDesc,18": {
         "0": "Place traps to find the Impostors",
+        "9": "Platziere Fallen um die Impostor zu finden",
         "13": "\u653e\u7f6e\u9677\u9631\u4ee5\u627e\u51fa\u5185\u9b3c"
     },
     "Role-ShortDesc,18": {
         "0": "Place traps",
+        "9": "Platziere Fallen ",
         "13": "\u653e\u7f6e\u9677\u9631"
     },
     "Role-Name,19": {
         "0": "Impostor",
+        "9": "Impostor",
         "13": "\u5185\u9b3c"
     },
     "Role-IntroDesc,19": {
         "0": "<color=#FF1919FF>Sabotage and kill everyone</color>",
+        "9": "<color=#FF1919FF>Sabotiere und t\u00f6te alle</color>",
         "13": "\u51fb\u6740\u4e0e\u7834\u574f"
     },
     "Role-ShortDesc,19": {
         "0": "Sabotage and kill everyone",
+        "9": "Sabotiere und t\u00f6te alle",
         "13": "\u51fb\u6740\u4e0e\u7834\u574f"
     },
     "Role-Name,20": {
         "0": "Godfather",
+        "9": "Godfather",
         "13": "\u6559\u7236"
     },
     "Role-IntroDesc,20": {
         "0": "Kill all Crewmates",
+        "9": "T\u00f6te alle Crewmates",
         "13": "\u6740\u6b7b\u6240\u6709\u4eba"
     },
     "Role-ShortDesc,20": {
         "0": "Kill all Crewmates",
+        "9": "T\u00f6te alle Crewmates",
         "13": "\u6740\u6b7b\u6240\u6709\u4eba"
     },
     "Role-Name,21": {
         "0": "Mafioso",
+        "9": "Mafioso",
         "13": "\u5c0f\u5f1f"
     },
     "Role-IntroDesc,21": {
         "0": "Work with the <color=#FF1919FF>Mafia</color> to kill the Crewmates",
+        "9": "Arbeite mit der <color=#FF1919FF>Mafia</color> um alle Crewmates zu t\u00f6ten",
         "13": "\u534f\u52a9<color=#FF1919FF>\u6559\u7236</color> \u6740\u6b7b\u6240\u6709\u4eba"
     },
     "Role-ShortDesc,21": {
         "0": "Kill all Crewmates",
+        "9": "T\u00f6te alle Crewmates",
         "13": "\u6740\u6b7b\u6240\u6709\u4eba"
     },
     "Role-Name,22": {
         "0": "Janitor",
+        "9": "Janitor",
         "13": "\u6e05\u6d01\u5de5"
     },
     "Role-IntroDesc,22": {
         "0": "Work with the <color=#FF1919FF>Mafia</color> by hiding dead bodies",
+        "9": "Arbeite mit der <color=#FF1919FF>Mafia</color> indem du Leichen versteckst",
         "13": "\u534f\u52a9<color=#FF1919FF>\u6559\u7236</color>\u6e05\u7406\u5c38\u4f53"
     },
     "Role-ShortDesc,22": {
         "0": "Hide dead bodies",
+        "9": "Verstecke Leichen",
         "13": "\u6e05\u7406\u5c38\u4f53"
     },
     "Role-Name,23": {
         "0": "Morphling",
+        "9": "Morphling",
         "13": "\u5316\u5f62\u8005"
     },
     "Role-IntroDesc,23": {
         "0": "Change your look to not get caught",
+        "9": "\u00c4ndere dein Aussehen um nicht erwischt zu werden",
         "13": "\u53d8\u6362\u5916\u5f62\u9003\u907f\u6293\u6355"
     },
     "Role-ShortDesc,23": {
         "0": "Change your look",
+        "9": "\u00c4ndere dein Aussehen",
         "13": "\u53d8\u6362\u4f60\u7684\u5916\u5f62"
     },
     "Role-Name,24": {
         "0": "Camouflager",
+        "9": "Camouflager",
         "13": "\u9690\u853d\u8005"
     },
     "Role-IntroDesc,24": {
         "0": "Camouflage and kill the Crewmates",
+        "9": "Camouflage und t\u00f6te alle Crewmates",
         "13": "\u5728\u9690\u853d\u4e0b\u6740\u5bb3\u8239\u5458"
     },
     "Role-ShortDesc,24": {
         "0": "Hide among others",
+        "9": "Verstecke dich unter anderen",
         "13": "\u9690\u533f\u4e8e\u4eba\u7fa4\u4e4b\u4e2d"
     },
     "Role-Name,25": {
         "0": "Vampire",
+        "9": "Vampir",
         "13": "\u5438\u8840\u9b3c"
     },
     "Role-IntroDesc,25": {
         "0": "Kill the Crewmates with your bites",
+        "9": "T\u00f6te alle Crewmates mit deinen Bissen",
         "13": "\u4ee5\u5438\u8840\u7684\u65b9\u5f0f\u6740\u5bb3\u8239\u5458"
     },
     "Role-ShortDesc,25": {
         "0": "Bite your enemies",
+        "9": "Bei\u00dfe deine Gegner",
         "13": "\u5438\u5e72\u4ed6\u4eec\u7684\u8840"
     },
     "Role-Name,26": {
         "0": "Eraser",
+        "9": "Eraser",
         "13": "\u62b9\u9664\u8005"
     },
     "Role-IntroDesc,26": {
         "0": "Kill the Crewmates and erase their roles",
+        "9": "T\u00f6te Crewmates und l\u00f6sche ihre Rolle",
         "13": "\u6740\u5bb3\u8239\u5458\uff0c\u62b9\u6d88\u4ed6\u4eec\u7684\u80fd\u529b"
     },
     "Role-ShortDesc,26": {
         "0": "Erase the roles of your enemies",
+        "9": "L\u00f6sche die Rollen deiner Gegner",
         "13": "\u62b9\u53bb\u654c\u4eba\u7684\u8eab\u4efd"
     },
     "Role-Name,27": {
         "0": "Trickster",
+        "9": "Trickster",
         "13": "\u9a97\u672f\u5e08"
     },
     "Role-IntroDesc,27": {
         "0": "Use your jack-in-the-boxes to surprise others",
+        "9": "\u00dcberrasche andere mit deinen Springteufeln",
         "13": "\u7528\u4f60\u7684\u60ca\u559c\u76d2\u5b50\u4e3a\u4ed6\u4eba\u5e26\u6765\u60ca\u559c"
     },
     "Role-ShortDesc,27": {
         "0": "Surprise your enemies",
+        "9": "\u00dcberrasche deine Gegner",
         "13": "\u60ca\u5413\u4f60\u7684\u654c\u4eba"
     },
     "Role-Name,28": {
         "0": "Cleaner",
+        "9": "Cleaner",
         "13": "\u6e05\u7406\u8005"
     },
     "Role-IntroDesc,28": {
         "0": "Kill everyone and leave no traces",
+        "9": "T\u00f6te alle und lasse keine Spuren zur\u00fcck",
         "13": "\u6740\u4eba\u65e0 \u75d5"
     },
     "Role-ShortDesc,28": {
         "0": "Clean up dead bodies",
+        "9": "Beseitige Leichen",
         "13": "\u6e05\u7406\u6b7b\u5c38"
     },
     "Role-Name,29": {
         "0": "Warlock",
+        "9": "Warlock",
         "13": "\u672f\u58eb"
     },
     "Role-IntroDesc,29": {
         "0": "Curse other players and kill everyone",
+        "9": "Verzaubere andere Spieler und t\u00f6te alle",
         "13": "\u8bc5\u5492\u5176\u4ed6\u73a9\u5bb6\uff0c\u6740\u6b7b\u6240\u6709\u4eba"
     },
     "Role-ShortDesc,29": {
         "0": "Curse and kill everyone",
+        "9": "Verzaubere und t\u00f6te alle",
         "13": "\u7528\u4f60\u7684\u8bc5\u5492\u6740\u6b7b\u6240\u6709\u4eba"
     },
     "Role-Name,30": {
         "0": "Bounty Hunter",
+        "9": "Bounty Hunter",
         "13": "\u8d4f\u91d1\u730e\u4eba"
     },
     "Role-IntroDesc,30": {
         "0": "Hunt your bounty down",
+        "9": "Jage dein Kopfgeld",
         "13": "\u730e\u6740\u4f60\u7684\u60ac\u8d4f\u76ee\u6807"
     },
     "Role-ShortDesc,30": {
         "0": "Hunt your bounty down",
+        "9": "Jage dein Kopfgeld",
         "13": "\u730e\u6740\u4f60\u7684\u60ac\u8d4f\u76ee\u6807"
     },
     "Role-Name,31": {
         "0": "Witch",
+        "9": "Witch",
         "13": "\u5973\u5deb"
     },
     "Role-IntroDesc,31": {
         "0": "Cast a spell upon your foes",
+        "9": "Verzaubere deine Feinde",
         "13": "\u7ed9\u4f60\u7684\u654c\u4eba\u4e0b\u5492"
     },
     "Role-ShortDesc,31": {
         "0": "Cast a spell upon your foes",
+        "9": "Verzaubere deine Feinde",
         "13": "\u7ed9\u4f60\u7684\u654c\u4eba\u4e0b\u5492"
     },
     "Role-Name,32": {
         "0": "Ninja",
+        "9": "Ninja",
         "13": "\u5fcd\u8005"
     },
     "Role-IntroDesc,32": {
         "0": "Surprise and assassinate your foes",
+        "9": "\u00dcberrasche deine Gegner und t\u00f6te sie",
         "13": "\u523a\u6740\u4f60\u7684\u654c\u4eba"
     },
     "Role-ShortDesc,32": {
         "0": "Surprise and assassinate your foes",
+        "9": "\u00dcberrasche deine Gegner und t\u00f6te sie",
         "13": "\u523a\u6740\u4f60\u7684\u654c\u4eba"
     },
     "Role-Name,33": {
         "0": "Bomber",
+        "9": "Bomber",
         "13": "\u70b8\u5f39\u72c2"
     },
     "Role-IntroDesc,33": {
         "0": "Bomb all Crewmates",
+        "9": "Bombardiere alle Crewmates",
         "13": "\u70b8\u6b7b\u8239\u5458"
     },
     "Role-ShortDesc,33": {
         "0": "Bomb all Crewmates",
+        "9": "Bombardiere alle Crewmates",
         "13": "\u70b8\u6b7b\u8239\u5458"
     },
     "Role-Name,34": {
         "0": "Yo-Yo",
+        "9": "Yo-Yo",
         "13": "\u60a0\u60a0\u7403"
     },
     "Role-IntroDesc,34": {
@@ -1981,294 +2403,367 @@
     },
     "Role-Name,35": {
         "0": "Jester",
+        "9": "Jester",
         "13": "\u5c0f\u4e11"
     },
     "Role-IntroDesc,35": {
         "0": "Get voted out",
+        "9": "Werde rausgevotet",
         "13": "\u60f3\u529e\u6cd5\u88ab\u6295\u51fa\u53bb"
     },
     "Role-ShortDesc,35": {
         "0": "Get voted out",
+        "9": "Werde rausgevotet",
         "13": "\u60f3\u529e\u6cd5\u88ab\u6295\u51fa\u53bb"
     },
     "Role-Name,36": {
         "0": "Jackal",
+        "9": "Jackal",
         "13": "\u8c7a\u72fc"
     },
     "Role-IntroDesc,36": {
         "0": "Kill all Crewmates and <color=#FF1919FF>Impostors</color> to win",
+        "9": "T\u00f6te alle Crewmates und <color=#FF1919FF>Impostor</color> um zu gewinnen",
         "13": "\u51fb\u6740\u6240\u6709\u8239\u5458\u548c<color=#FF1919FF>\u5185\u9b3c</color>"
     },
     "Role-ShortDesc,36": {
         "0": "Kill everyone",
+        "9": "T\u00f6te alle",
         "13": "\u51fb\u6740\u6240\u6709\u4eba"
     },
     "Role-Name,37": {
         "0": "Sidekick",
+        "9": "Sidekick",
         "13": "\u8ddf\u73ed"
     },
     "Role-IntroDesc,37": {
         "0": "Help your Jackal to kill everyone",
+        "9": "Helfe deinem Jackal zu gewinnen",
         "13": "\u5e2e\u52a9\u8c7a\u72fc"
     },
     "Role-ShortDesc,37": {
         "0": "Help your Jackal to kill everyone",
+        "9": "Helfe deinem Jackal zu gewinnen",
         "13": "\u5e2e\u52a9\u8c7a\u72fc"
     },
     "Role-Name,38": {
         "0": "Arsonist",
+        "9": "Arsonist",
         "13": "\u7eb5\u706b\u72af"
     },
     "Role-IntroDesc,38": {
         "0": "Let them burn",
+        "9": "Brenne sie alle nieder!",
         "13": "\u7528\u706b\u7130\u51c0\u5316\u4e00\u5207"
     },
     "Role-ShortDesc,38": {
         "0": "Let them burn",
+        "9": "Brenne sie alle nieder!",
         "13": "\u7528\u706b\u7130\u51c0\u5316\u4e00\u5207"
     },
     "Role-Name,39": {
         "0": "Evil Guesser",
+        "9": "Evil Guesser",
         "13": "\u90aa\u6076\u7684\u8d4c\u602a"
     },
     "Role-IntroDesc,39": {
         "0": "Guess and shoot",
+        "9": "Guesse und schie\u00dfe",
         "13": "\u751f\u547d\u5c31\u662f\u8c6a\u8d4c"
     },
     "Role-ShortDesc,39": {
         "0": "Guess and shoot",
+        "9": "Guesse und schie\u00dfe",
         "13": "\u751f\u547d\u5c31\u662f\u8c6a\u8d4c"
     },
     "Role-Name,40": {
         "0": "Nice Guesser",
+        "9": "Nice Guesser",
         "13": "\u6b63\u4e49\u7684\u8d4c\u602a"
     },
     "Role-IntroDesc,40": {
         "0": "Guess and shoot",
+        "9": "Guesse und schie\u00dfe",
         "13": "\u751f\u547d\u5c31\u662f\u8c6a\u8d4c"
     },
     "Role-ShortDesc,40": {
         "0": "Guess and shoot",
+        "9": "Guesse und schie\u00dfe",
         "13": "\u751f\u547d\u5c31\u662f\u8c6a\u8d4c"
     },
     "Role-Name,41": {
         "0": "Vulture",
+        "9": "Vulture",
         "13": "\u79c3\u9e6b"
     },
     "Role-IntroDesc,41": {
         "0": "Eat corpses to win",
+        "9": "Esse Leichen um zu gewinnen",
         "13": "\u541e\u566c\u5c38\u4f53\u6765\u83b7\u5f97\u80dc\u5229"
     },
     "Role-ShortDesc,41": {
         "0": "Eat dead bodies",
+        "9": "Esse Leichen ",
         "13": "\u541e\u566c\u5c38\u4f53"
     },
     "Role-Name,42": {
         "0": "Lawyer",
+        "9": "Lawyer",
         "13": "\u5f8b\u5e08"
     },
     "Role-IntroDesc,42": {
         "0": "Defend your client",
+        "9": "Verteidige deinen Klienten",
         "13": "\u4e3a\u4f60\u7684\u5ba2\u6237\u8fa9\u89e3"
     },
     "Role-ShortDesc,42": {
         "0": "Defend your client",
+        "9": "Verteidige deinen Klienten",
         "13": "\u4e3a\u4f60\u7684\u5ba2\u6237\u8fa9\u89e3"
     },
     "Role-Name,43": {
         "0": "Prosecutor",
+        "9": "Prosecutor",
         "13": "\u68c0\u5bdf\u5b98"
     },
     "Role-IntroDesc,43": {
         "0": "Vote out your target",
+        "9": "W\u00e4hle dein Ziel raus",
         "13": "\u6295\u51fa\u4f60\u7684\u76ee\u6807"
     },
     "Role-ShortDesc,43": {
         "0": "Vote out your target",
+        "9": "W\u00e4hle dein Ziel raus",
         "13": "\u6295\u51fa\u4f60\u7684\u76ee\u6807"
     },
     "Role-Name,44": {
         "0": "Pursuer",
+        "9": "Persuer",
         "13": "\u8d77\u8bc9\u4eba"
     },
     "Role-IntroDesc,44": {
         "0": "Blank the Impostors",
+        "9": "Schalte die Impostor aus",
         "13": "\u7ed9\u4f60\u7684\u5bf9\u624b\u585e\u7a7a\u5305\u5f39"
     },
     "Role-ShortDesc,44": {
         "0": "Blank the Impostors",
+        "9": "Schalte die Impostor aus",
         "13": "\u7ed9\u4f60\u7684\u5bf9\u624b\u585e\u7a7a\u5305\u5f39"
     },
     "Role-Name,45": {
         "0": "Thief",
+        "9": "Thief",
         "13": "\u8eab\u4efd\u7a83\u8d3c"
     },
     "Role-IntroDesc,45": {
         "0": "Steal a killers role by killing them",
+        "9": "Stiele die Rolle eines Killers indem du sie t\u00f6test",
         "13": "\u5077\u7a83\u6267\u5203\u8005\u7684\u8eab\u4efd"
     },
     "Role-ShortDesc,45": {
         "0": "Steal a killers role",
+        "9": "Stiele die Rolle eines Killers",
         "13": "\u5077\u7a83\u6267\u5203\u8005\u7684\u8eab\u4efd"
     },
     "Role-Name,46": {
         "0": "Schr\u00f6dinger's Cat",
+        "9": "Schr\u00f6dingers Katze",
         "13": "\u859b\u5b9a\u8c14\u7684\u732b"
     },
     "Role-IntroDesc,46": {
         "0": "Get killed and join killer team",
+        "9": "Werde get\u00f6tet und geh\u00f6re zum Team deines Killers",
         "13": "\u901a\u8fc7\u88ab\u51fb\u6740\u6765\u52a0\u5165\u51f6\u624b\u6240\u5728\u7684\u9635\u8425"
     },
     "Role-ShortDesc,46": {
         "0": "Get killed and join killer team",
+        "9": "Werde get\u00f6tet und geh\u00f6re zum Team deines Killers",
         "13": "\u901a\u8fc7\u88ab\u51fb\u6740\u6765\u52a0\u5165\u51f6\u624b\u6240\u5728\u7684\u9635\u8425"
     },
     "Role-Name,47": {
         "0": "Lover",
+        "9": "Lover",
         "13": "\u604b\u4eba"
     },
     "Role-IntroDesc,47": {
         "0": "You are in love",
+        "9": "Du bist verliebt <3",
         "13": "\u4f60\u5760\u5165\u4e86\u7231\u6cb3"
     },
     "Role-ShortDesc,47": {
         "0": "You are in love",
+        "9": "Du bist verliebt <3",
         "13": "\u4f60\u5760\u5165\u4e86\u7231\u6cb3"
     },
     "Role-Name,48": {
         "0": "Bait",
+        "9": "Bait",
         "13": "\u8bf1\u9975"
     },
     "Role-IntroDesc,48": {
         "0": "Bait your enemies",
+        "9": "K\u00f6dere deine Gegner",
         "13": "\u8bf1\u9a97\u4f60\u7684\u654c\u4eba"
     },
     "Role-ShortDesc,48": {
         "0": "Bait your enemies",
+        "9": "K\u00f6dere deine Gegner",
         "13": "\u8bf1\u9a97\u4f60\u7684\u654c\u4eba"
     },
     "Role-Name,49": {
         "0": "Bloody",
+        "9": "Bloody",
         "13": "\u6e85\u8840\u8005"
     },
     "Role-IntroDesc,49": {
         "0": "Your killer leaves a bloody trail",
+        "9": "Dein Killer hinterl\u00e4sst eine blutige Spur",
         "13": "\u7528\u4f60\u7684\u8840\u542f\u793a\u540e\u4eba"
     },
     "Role-ShortDesc,49": {
         "0": "Your killer leaves a bloody trail",
+        "9": "Dein Killer hinterl\u00e4sst eine blutige Spur",
         "13": "\u4f60\u7684\u51f6\u624b\u4f1a\u7559\u4e0b\u8840\u8ff9\u6591\u6591\u7684\u8f68\u8ff9"
     },
     "Role-Name,50": {
         "0": "Anti tp",
+        "9": "Anti TP",
         "13": "\u901a\u8baf\u5175"
     },
     "Role-IntroDesc,50": {
         "0": "You will not get teleported",
+        "9": "Du wirst nicht teleporiert",
         "13": "\u4f60\u65e0\u9700\u56de\u5230\u4f1a\u8bae\u684c"
     },
     "Role-ShortDesc,50": {
         "0": "You will not get teleported",
+        "9": "Du wirst nicht teleporiert",
         "13": "\u4f60\u4e0d\u4f1a\u88ab\u4f20\u9001\u81f3\u4f1a\u8bae\u684c"
     },
     "Role-Name,51": {
         "0": "Tiebreaker",
+        "9": "Tiebraker",
         "13": "\u7834\u5e73\u8005"
     },
     "Role-IntroDesc,51": {
         "0": "Your vote breaks the tie",
+        "9": "Dein Vote bricht den Gleichstand",
         "13": "\u6253\u7834\u5e73\u5c40"
     },
     "Role-ShortDesc,51": {
         "0": "Break the tie",
+        "9": "Dein Vote bricht den Gleichstand",
         "13": "\u6253\u7834\u5e73\u5c40"
     },
     "Role-Name,52": {
         "0": "Sunglasses",
+        "9": "Sunglasses",
         "13": "\u76f2\u4eba"
     },
     "Role-IntroDesc,52": {
         "0": "You got the sunglasses",
+        "9": "Du hast eine Sonnenbrille",
         "13": "\u4f60\u5e26\u4e0a\u4e86\u592a\u9633\u955c"
     },
     "Role-ShortDesc,52": {
         "0": "Your vision is reduced",
+        "9": "Deine Sicht ist eingeschr\u00e4nkt",
         "13": "\u4f60\u5e26\u4e0a\u4e86\u592a\u9633\u955c"
     },
     "Role-Name,53": {
         "0": "Mini",
+        "9": "Mini",
         "13": "\u8ff7\u4f60\u8239\u5458"
     },
     "Role-IntroDesc,53": {
         "0": "No one will harm you until you grow up",
+        "9": "Niemand wird dir etwas antun bis zu gro\u00df wird",
         "13": "\u957f\u5927\u524d\u6ca1\u4eba\u80fd\u4f24\u5bb3\u4f60"
     },
     "Role-ShortDesc,53": {
         "0": "No one will harm you",
+        "9": "Niemand wird dir etwas antun",
         "13": "\u6ca1\u4eba\u80fd\u4f24\u5bb3\u4f60"
     },
     "Role-Name,54": {
         "0": "VIP",
+        "9": "VIP",
         "13": "VIP"
     },
     "Role-IntroDesc,54": {
         "0": "You are the VIP",
+        "9": "Du bist der VIP",
         "13": "\u4f60\u662fVIP"
     },
     "Role-ShortDesc,54": {
         "0": "Everyone is notified when you die",
+        "9": "Alle werden bei deinem Tod benachrichtigt",
         "13": "\u6240\u6709\u4eba\u90fd\u4f1a\u77e5\u9053\u4f60\u7684\u6b7b\u8baf"
     },
     "Role-Name,55": {
         "0": "Invert",
+        "9": "Invert",
         "13": "\u9189\u9b3c"
     },
     "Role-IntroDesc,55": {
         "0": "Your movement is inverted",
+        "9": "Deine Bewegung ist seitenverkehrt",
         "13": "\u4f60\u7684\u52a8\u4f5c\u662f\u76f8\u53cd\u7684"
     },
     "Role-ShortDesc,55": {
         "0": "Your movement is inverted",
+        "9": "Deine Bewegung ist seitenverkehrt",
         "13": "\u4f60\u7684\u52a8\u4f5c\u662f\u76f8\u53cd\u7684"
     },
     "Role-Name,56": {
         "0": "Chameleon",
+        "9": "Chameleon",
         "13": "\u53d8\u8272\u9f99"
     },
     "Role-IntroDesc,56": {
         "0": "You're hard to see when not moving",
+        "9": "Man sieht dich kaum wenn du dich nicht bewegst",
         "13": "\u4f60\u5728\u4e00\u52a8\u4e0d\u52a8\u65f6\u5f88\u96be\u88ab\u53d1\u73b0"
     },
     "Role-ShortDesc,56": {
         "0": "You're hard to see when not moving",
+        "9": "Man sieht dich kaum wenn du dich nicht bewegst",
         "13": "\u4f60\u5728\u4e00\u52a8\u4e0d\u52a8\u65f6\u5f88\u96be\u88ab\u53d1\u73b0"
     },
     "Role-Name,57": {
         "0": "Armored",
+        "9": "Armored",
         "13": "\u88c5\u7532\u5175"
     },
     "Role-IntroDesc,57": {
         "0": "You are protected from one murder attempt",
+        "9": "Du bist vor einem Mordversuch gesch\u00fctzt",
         "13": "\u4f60\u53d7\u5230\u4fdd\u62a4\uff0c\u514d\u906d\u4e00\u6b21\u8c0b\u6740\u4f01\u56fe"
     },
     "Role-ShortDesc,57": {
         "0": "You are protected from one murder attempt",
+        "9": "Du bist vor einem Mordversuch gesch\u00fctzt",
         "13": "\u4f60\u6709\u4e00\u6b21\u514d\u6b7b\u673a\u4f1a"
     },
     "Role-Name,58": {
         "0": "Shifter",
+        "9": "Shifter",
         "13": "\u4ea4\u6362\u5e08"
     },
     "Role-IntroDesc,58": {
         "0": "Shift your role",
+        "9": "Wechsel deine Rolle",
         "13": "\u4ea4\u6362\u804c\u4e1a"
     },
     "Role-ShortDesc,58": {
         "0": "Shift your role",
+        "9": "Wechsel deine Rolle",
         "13": "\u4ea4\u6362\u804c\u4e1a"
     },
     "VoiceChat-Text,1": {
         "0": "Public",
+        "9": "{0} Kanal",
         "13": "\u516c\u5171"
     },
     "VoiceChat-Text,2": {
@@ -2277,13 +2772,16 @@
     },
     "ChatCommands,1": {
         "0": "Nice try, but you have to be the host to use this feature",
+        "9": "Netter Versuch, aber du musst Host sein, um das Feature zu verwenden",
         "13": "\u597d\u597d\u597d\uff0c\u4f46\u4f60\u4e0b\u6b21\u6700\u597d\u662f\u623f\u4e3b"
     },
     "ChatCommands,2": {
-        "0": "Unable to parse color id\nUsage: /color {id}"
+        "0": "Unable to parse color id\nUsage: /color {id}",
+        "9": "Farbwechsel nicht m\u00f6glich. Nutze /color {id}"
     },
     "ChatCommands,3": {
-        "0": "Changed color succesfully"
+        "0": "Changed color succesfully",
+        "9": "Farbe erfolgreich ge\u00e4ndert."
     },
     "Color-Text,1": {
         "0": "Tamarind",
@@ -2383,130 +2881,162 @@
     },
     "DynamicLobbies-Text,1": {
         "0": "Invalid Size\nUsage: /size {amount}",
+        "9": "Ung\u00fcltige Anzahl. Nutze /size {amount}",
         "13": "\u65e0\u6548\u5927\u5c0f\n\u793a\u4f8b: /size {amount}"
     },
     "DynamicLobbies-Text,2": {
         "0": "Lobby Size changed to {0} players",
+        "9": "Lobby auf {0} Spieler begrenzt",
         "13": "\u623f\u95f4\u6700\u5927\u73a9\u5bb6\u6570\u6539\u4e3a {0}"
     },
     "DynamicLobbies-Text,3": {
         "0": "Lobby Size is already {0}",
+        "9": "Lobby ist bereits auf {0} Spieler begrenzt",
         "13": "\u623f\u95f4\u6700\u5927\u73a9\u5bb6\u6570\u5df2\u7ecf\u662f {0}"
     },
     "ModUpdater-Text,1": {
         "0": "Updating TOR-R\nPlease wait...",
+        "9": "Aktualsiere TOR-R, bitte warten...",
         "13": "\u6b63\u5728\u66f4\u65b0TOR-R\n\u8bf7\u7a0d\u5019..."
     },
     "ModUpdater-Text,2": {
         "0": "Updating TOR-R\nPlease wait...\nDownloading...\n{0}",
+        "9": "Aktualsiere TOR-R\nbitte warten...\nLade Herunter...\n{0}",
         "13": "\u6b63\u5728\u66f4\u65b0TOR-R\n\u8bf7\u7a0d\u5019...\n\u6b63\u5728\u4e0b\u8f7d\u66f4\u65b0\u6587\u4ef6...\n{0}"
     },
     "ModUpdater-Text,3": {
         "0": "Update wasn't successful\nTry again later,\nor update manually.",
+        "9": "Aktualisierung fehlgeschlagen.\nBitte versuche es sp\u00e4ter erneut\noder aktualisiere manuell\n",
         "13": "\u66f4\u65b0\u5931\u8d25\n\u8bf7\u7a0d\u540e\u91cd\u8bd5\u6216\u624b\u52a8\u66f4\u65b0"
     },
     "ModUpdater-Text,4": {
         "0": "Updating TOR-R\nPlease wait...\n\nDownload complete\ncopying file...",
+        "9": "Updating TOR-R\nBitte warten...\n\nDownload fertig\nKopiere Datei...\n",
         "13": "\u6b63\u5728\u66f4\u65b0TOR-R\n\u8bf7\u7a0d\u5019...\n\n\u4e0b\u8f7d\u5b8c\u6210\n\u6b63\u5728\u590d\u5236\u6587\u4ef6..."
     },
     "ModUpdater-Text,5": {
         "0": "TheOtherRoles-Reactivated\nupdated successfully\nPlease restart the game.",
+        "9": "TheOtherRoles-Reactivated \nAktualisierung erfolgreich\nBitte Spiel neustarten.",
         "13": "TheOtherRoles-Reactivated\n\u66f4\u65b0\u6210\u529f\n\u8bf7\u91cd\u542f\u6e38\u620f"
     },
     "ModUpdater-Text,6": {
         "0": "Update TOR-R",
+        "9": "TOR-R aktualisieren",
         "13": "\u66f4\u65b0TOR-R"
     },
     "ModUpdater-Text,7": {
         "0": "<size=150%>A new THE OTHER ROLES Reactivated update to {0} is available</size>\n{1}",
+        "9": "<size=150%>Ein neues Update ist verf\u00fcgbar: {0}</size>\n{1}",
         "13": "<size=150%>THE OTHER ROLES Reactivated v{0} \u5df2\u7ecf\u53d1\u5e03</size>\n{1}"
     },
     "RoleDraft-Text,1": {
         "0": "Player's Picks:",
+        "9": "Auswahl der Spieler:",
         "13": "\u73a9\u5bb6\u7684\u9009\u62e9:"
     },
     "RoleDraft-Text,2": {
         "0": "Currently Picking:",
+        "9": "Zurzeit am Ausw\u00e4hlen:",
         "13": "\u6b63\u5728\u6311\u9009\u7684\u73a9\u5bb6:"
     },
     "RoleDraft-Text,3": {
         "0": "You!",
+        "9": "Du!",
         "13": "\u4f60!"
     },
     "RoleDraft-Text,4": {
         "0": "Random",
+        "9": "Zuf\u00e4llig",
         "13": "\u968f\u673a"
     },
     "RoleDraft-Text,5": {
         "0": "Anonymous Player {0}",
+        "9": "Anonymer Spieler {0}",
         "13": "\u533f\u540d\u73a9\u5bb6 {0}"
     },
     "RoleDraft-Text,6": {
         "0": "Welcome to the Role Draft!",
+        "9": "Willkommen beim Rollen-Draft!",
         "13": "\u6b22\u8fce\u6765\u5230 \u8f6e\u62bd\u9009\u89d2!"
     },
     "RoleDraft-Text,7": {
         "0": "({0} rounds until your turn)",
+        "9": "({0} Runden bis du dran bist)",
         "13": "(\u5728\u4f60\u4e4b\u524d\u8fd8\u6709{0}\u540d\u73a9\u5bb6)"
     },
     "RoleDraft-Text,8": {
         "0": "Random Selection In...",
+        "9": "Zuf\u00e4llige Auswahl In...",
         "13": "\u6b63\u5728\u968f\u673a\u9009\u62e9..."
     },
     "RoleDraft-Text,9": {
         "0": "Unknown Role",
+        "9": "Unbekannte Rolle",
         "13": "\u672a\u77e5\u804c\u4e1a"
     },
     "RoleDraft-Text,10": {
         "0": "Impostor Role",
+        "9": "Impostor Rolle",
         "13": "\u5185\u9b3c\u804c\u4e1a"
     },
     "RoleDraft-Text,11": {
         "0": "Neutral Role",
+        "9": "Neutrale Rolle",
         "13": "\u4e2d\u7acb\u804c\u4e1a"
     },
     "RoleDraft-Text,12": {
         "0": "You",
+        "9": "Du",
         "13": "\u4f60"
     },
     "CustomOption-Text,1": {
         "0": "Host Info: Pasting vanilla settings failed, TOR Options applied!",
+        "9": "Host Info: Einf\u00fcgen der Vanilla Einstellungen fehlgeschlafen, TOR Optionen werden verwendet!",
         "13": "\u623f\u4e3b\u4fe1\u606f: \u7c98\u8d34\u539f\u7248\u8bbe\u7f6e\u5931\u8d25\uff0c\u6a21\u7ec4\u8bbe\u7f6e\u5df2\u66f4\u6539!"
     },
     "CustomOption-Text,2": {
         "0": "Host Info: You tried to paste invalid settings: \"{0}...\"",
+        "9": "Host Info: Du hast versucht ung\u00fcltige Einstellungen einzuf\u00fcgen: \"{0}...\"",
         "13": "\u623f\u4e3b\u4fe1\u606f: \u4f60\u5c1d\u8bd5\u7c98\u8d34\u65e0\u6548\u8bbe\u7f6e: \"{0}...\""
     },
     "CustomOption-Text,3": {
         "0": "Impostor Roles",
+        "9": "Impostor Rollen",
         "13": "\u5185\u9b3c\u804c\u4e1a"
     },
     "CustomOption-Text,4": {
         "0": "Neutral Roles",
+        "9": "Neutrale Rollen",
         "13": "\u4e2d\u7acb\u804c\u4e1a"
     },
     "CustomOption-Text,5": {
         "0": "Crewmate Roles",
+        "9": "Crewmate Rollen",
         "13": "\u8239\u5458\u804c\u4e1a"
     },
     "CustomOption-Text,6": {
         "0": "Modifiers",
+        "9": "Modifikationen",
         "13": "\u9644\u52a0\u804c\u4e1a"
     },
     "CustomOption-Text,7": {
         "0": "Spawn Chance",
+        "9": "Spawnchance",
         "13": "\u5206\u914d\u6982\u7387"
     },
     "CustomOption-Text,8": {
         "0": "Fill:",
+        "9": "F\u00fcllen:",
         "13": "\u586b\u5145:"
     },
     "CustomOption-Text,9": {
         "0": "TOR Settings",
+        "9": "TOR Einstellungen",
         "13": "TOR\u8bbe\u7f6e"
     },
     "CustomOption-Text,10": {
         "0": "Role Overview",
+        "9": "Rollen\u00fcbersicht",
         "13": "\u804c\u4e1a\u603b\u89c8"
     },
     "CustomOption-Text,11": {
@@ -2523,10 +3053,12 @@
     },
     "CustomOption-Text,14": {
         "0": "Guesser Settings",
+        "9": "Guesser Einstellungen",
         "13": "\u8d4c\u602a\u8bbe\u7f6e"
     },
     "CustomOption-Text,15": {
         "0": "(1 Evil: {0}%)",
+        "9": "(1 B\u00f6se: {0}%)",
         "13": "(1 \u90aa\u6076: {0}%)"
     },
     "CustomOption-Text,16": {
@@ -2543,38 +3075,47 @@
     },
     "CustomOption-Text,19": {
         "0": "Page 1: Vanilla Settings",
+        "9": "Seite 1: Vanilla Einstellungen",
         "13": "\u7b2c\u4e00\u9875\uff1a\u539f\u7248\u6e38\u620f\u8bbe\u7f6e"
     },
     "CustomOption-Text,20": {
         "0": "Page 2: The Other Roles Reactivated Settings",
+        "9": "Seite 2: The Other Roles Reactivated Einstellungen",
         "13": "\u7b2c\u4e8c\u9875\uff1aThe Other Roles Reactivated \u6a21\u7ec4\u8bbe\u7f6e"
     },
     "CustomOption-Text,21": {
         "0": "Page 3: Role and Modifier Rates",
+        "9": "Seite 3: Rollen und Modifikationen",
         "13": "\u7b2c\u4e09\u9875\uff1a\u804c\u4e1a\u4e0e\u9644\u52a0\u804c\u4e1a\u6982\u7387"
     },
     "CustomOption-Text,22": {
         "0": "Page 4: Impostor Role Settings",
+        "9": "Seite 4: Impostor Rollen Einstellungen",
         "13": "\u7b2c\u56db\u9875\uff1a\u5185\u9b3c\u804c\u4e1a\u8bbe\u7f6e"
     },
     "CustomOption-Text,23": {
         "0": "Page 5: Neutral Role Settings",
+        "9": "Seite 5: Neutrale Rollen Einstellungen",
         "13": "\u7b2c\u4e94\u9875\uff1a\u4e2d\u7acb\u804c\u4e1a\u8bbe\u7f6e"
     },
     "CustomOption-Text,24": {
         "0": "Page 6: Crewmate Role Settings",
+        "9": "Seite 6: Crewmate Rollen Einstellungen",
         "13": "\u7b2c\u516d\u9875\uff1a\u8239\u5458\u804c\u4e1a\u8bbe\u7f6e"
     },
     "CustomOption-Text,25": {
         "0": "Page 7: Modifier Settings",
+        "9": "Seite 7: Modifikationen Einstellungen",
         "13": "\u7b2c\u4e03\u9875\uff1a\u9644\u52a0\u804c\u4e1a\u8bbe\u7f6e"
     },
     "CustomOption-Text,26": {
         "0": "Press TAB or Page Number for more... ({0}/{1})",
+        "9": "Dr\u00fccke TAB oder Seitennummer f\u00fcr mehr... ({0}/{1})",
         "13": "\u6309Tab\u952e\u67e5\u770b\u66f4\u591a... ({0}/{1})"
     },
     "CustomOption-Text,27": {
         "0": "Very Short",
+        "9": "Sehr kurz",
         "13": "\u975e\u5e38\u77ed"
     },
     "Role-Portalmaker,1": {
@@ -2583,70 +3124,87 @@
     },
     "Role-Portalmaker,2": {
         "0": "L",
+        "9": "L",
         "13": "\u6d45"
     },
     "Role-Portalmaker,3": {
         "0": "D",
+        "9": "D",
         "13": "\u6df1"
     },
     "Role-Portalmaker,4": {
         "0": "A player ({0})",
+        "9": "Ein Spieler ([0})",
         "13": "\u4e00\u540d({0})\u73a9\u5bb6"
     },
     "Role-Portalmaker,5": {
         "0": "A camouflaged player",
+        "9": "Ein camouflagter Spieler",
         "13": "\u4e00\u4e2a\u9690\u853d\u7684\u73a9\u5bb6"
     },
     "ClientOptions-Text,1": {
         "0": "Ghosts See Tasks & Other Info",
+        "9": "Geister k\u00f6nnen Aufgaben & Andere Informationen sehen",
         "13": "\u7075\u9b42\u53ef\u89c1\u4efb\u52a1\u548c\u5176\u4ed6\u4fe1\u606f"
     },
     "ClientOptions-Text,2": {
         "0": "Ghosts Can See Votes",
+        "9": "Geister k\u00f6nnen Votes sehen",
         "13": "\u7075\u9b42\u53ef\u89c1\u6295\u7968\u7ed3\u679c"
     },
     "ClientOptions-Text,3": {
         "0": "Ghosts Can See Roles",
+        "9": "Geister k\u00f6nnen Rollen sehen",
         "13": "\u7075\u9b42\u53ef\u89c1\u73a9\u5bb6\u804c\u4e1a"
     },
     "ClientOptions-Text,4": {
         "0": "Ghosts Can Additionally See Modifier",
+        "9": "Geister k\u00f6nnen auch Modifikationen sehen",
         "13": "\u7075\u9b42\u53ef\u89c1\u9644\u52a0\u804c\u4e1a"
     },
     "ClientOptions-Text,5": {
         "0": "Show Role Summary",
+        "9": "Zeige Rollenzusammenfassung",
         "13": "\u663e\u793a\u804c\u4e1a\u603b\u7ed3"
     },
     "ClientOptions-Text,6": {
         "0": "Show Lighter / Darker",
+        "9": "Zeige Heller/Dunkler",
         "13": "\u663e\u793a\u989c\u8272\u6df1\u6d45"
     },
     "ClientOptions-Text,7": {
         "0": "Enable Sound Effects",
+        "9": "Aktiviere Soundeffekte",
         "13": "\u542f\u7528\u6a21\u7ec4\u97f3\u6548"
     },
     "ClientOptions-Text,8": {
         "0": "Show Vents On Map",
+        "9": "Zeige Vents auf Map",
         "13": "\u5728\u5730\u56fe\u4e0a\u663e\u793a\u7ba1\u9053\u4f4d\u7f6e"
     },
     "ClientOptions-Text,9": {
         "0": "Show Chat Notifications",
+        "9": "Zeige Chatbenachrichtigungen an",
         "13": "\u663e\u793a\u804a\u5929\u901a\u77e5"
     },
     "ClientOptions-Button-Text,1": {
         "0": "Mod Options...",
+        "9": "Mod Optionen...",
         "13": "\u6a21\u7ec4\u8bbe\u7f6e..."
     },
     "ClientOptions-Button-Text,2": {
         "0": "More Options...",
+        "9": "Mehr Optionen...",
         "13": "\u66f4\u591a\u8bbe\u7f6e..."
     },
     "GameOptions-Text,1": {
         "0": "TOR Guesser",
+        "9": "TOR Guesser",
         "13": "TOR\u8d4c\u602a\u6a21\u5f0f"
     },
     "GameOptions-Text,2": {
         "0": "An extension to the Classic-Gamemode and gives you a multitude of new options for Guessers.",
+        "9": "Eine Erweiterung des Classic-Spielmodus, die dir eine Vielzahl neuer Optionen f\u00fcr die Guesser bietet.",
         "13": "\u7ecf\u5178\u6e38\u620f\u6a21\u5f0f\u7684\u6269\u5c55\uff0c\u4e3a\u60a8\u63d0\u4f9b\u4e86\u5927\u91cf\u5173\u4e8e\u8d4c\u602a\u7684\u65b0\u9009\u9879\u3002"
     },
     "GameOptions-Text,3": {
@@ -2667,14 +3225,17 @@
     },
     "Credentials-Text,1": {
         "0": "Modded by <color=#FCCE03FF>Eisbison</color>, <color=#FCCE03FF>Thunderstorm584</color>, <color=#FCCE03FF>EndOfFile</color>\n<color=#FCCE03FF>Mall\u00f6ris</color>, <color=#FCCE03FF>Gendelo</color> & <color=#00ffff>FangkuaiYa</color>\nDesign by <color=#FCCE03FF>Bavari</color>",
+        "9": "Gemoddet von <color=#FCCE03FF>Eisbison</color>, <color=#FCCE03FF>Thunderstorm584</color>, <color=#FCCE03FF>EndOfFile</color>\n<color=#FCCE03FF>Mall\u00f6ris</color>, <color=#FCCE03FF>Gendelo</color> & <color=#00ffff>FangkuaiYa</color>\nDesign von <color=#FCCE03FF>Bavari</color>\n",
         "13": "\u6a21\u7ec4\u7531<color=#FCCE03FF>Eisbison</color>, <color=#FCCE03FF>Thunderstorm584</color>, <color=#FCCE03FF>EndOfFile</color>\n<color=#FCCE03FF>Mall\u00f6ris</color>, <color=#FCCE03FF>Gendelo</color> & <color=#00ffff>FangkuaiYa</color>\u5f00\u53d1\n\u7531<color=#FCCE03FF>Bavari</color>\u8bbe\u8ba1"
     },
     "Credentials-Text,2": {
         "0": "<size=60%><color=#FCCE03FF>Special thanks to Smeggy</color></size>",
+        "9": "<size=60%><color=#FCCE03FF>Besonderer Dank an Smeggy</color></size>\n",
         "13": "<size=60%><color=#FCCE03FF>\u7279\u522b\u611f\u8c22 Smeggy</color></size>"
     },
     "EndGame-Text,1": {
         "0": "{0} Wins",
+        "9": "{0} Tod",
         "13": "{0} \u83b7\u80dc"
     },
     "EndGame-Text,2": {
@@ -2683,318 +3244,397 @@
     },
     "EndGame-Text,3": {
         "0": "Team {0} Wins",
+        "9": "Team {0} gewinnt",
         "13": "{0} \u56e2\u961f\u83b7\u80dc"
     },
     "EndGame-Text,4": {
         "0": "And {0} Win",
+        "9": "Und {0} Sieg",
         "13": "\u4e0e {0} \u5171\u540c\u83b7\u80dc"
     },
     "EndGame-Text,5": {
         "0": "Last Crewmate Disconnected",
+        "9": "Letzter Crewmate hat verlassen",
         "13": "\u6700\u540e\u4e00\u540d\u8239\u5458\u65ad\u5f00\u8fde\u63a5"
     },
     "EndGame-Text,6": {
         "0": "{0} Win - By Kill",
+        "9": "{0} Sieg - durch Kill",
         "13": "{0} \u901a\u8fc7\u51fb\u6740\u83b7\u80dc"
     },
     "EndGame-Text,7": {
         "0": "{0} Win - By Sabotage",
+        "9": "{0} Sieg - durch Sabotage",
         "13": "{0} \u901a\u8fc7\u7834\u574f\u83b7\u80dc"
     },
     "EndGame-Text,8": {
         "0": "{0} Win - By Vote, Guess or DC",
+        "9": "{0} Sieg - durch Vote, Guess oder DC",
         "13": "{0} \u901a\u8fc7\u653e\u9010, \u8d4c\u6740\u6216\u65ad\u94fe\u83b7\u80dc"
     },
     "EndGame-Text,9": {
         "0": "{0} Win - Taskwin",
+        "9": "{0} Sieg - durch Taskwin",
         "13": "{0} \u901a\u8fc7\u5b8c\u6210\u4efb\u52a1\u83b7\u80dc"
     },
     "EndGame-Text,10": {
         "0": "{0} Win - No Evil Killers Left",
+        "9": "{0} Sieg - alle b\u00f6sen Killer raus",
         "13": "{0} \u56e0\u4e3a\u6ca1\u6709\u90aa\u6076\u5e26\u5200\u804c\u4e1a\u83b7\u80dc"
     },
     "EndGame-Text,11": {
         "0": "The {0} wins with the client",
+        "9": "{0} gewinnt mit dem Klienten",
         "13": "{0} \u4e0e \u5ba2\u6237 \u5171\u540c\u83b7\u80dc"
     },
     "EndGame-Text,12": {
         "0": "The {0} survived",
+        "9": "{0} \u00fcberlebte",
         "13": "{0} \u5e78\u5b58"
     },
     "EndGame-Text,13": {
         "0": "Time: {0:#0.0}:{1:#0.0}",
+        "9": "Zeit: {0:#0.0}:{1:#0.0}",
         "13": "\u6e38\u620f\u65f6\u95f4: {0:#0.0}:{1:#0.0}"
     },
     "EndGame-Text,14": {
         "0": "Players and roles at the end of the game:",
+        "9": "Spieler und Rollen am Ende des Spiels:",
         "13": "\u6e38\u620f\u7ed3\u675f\u65f6\u73a9\u5bb6\u804c\u4e1a:"
     },
     "EndGame-Text,15": {
         "0": "(Kills: {0})",
+        "9": "(Kills: {0})",
         "13": "(\u51fb\u6740: {0})"
     },
     "Exile-Text,1": {
         "0": "{0} was The {1}",
+        "9": "{0} war {1}",
         "13": "{0} \u7684\u8eab\u4efd\u662f {1}"
     },
     "Exile-Text,2": {
         "0": "(Tiebreaker)",
+        "9": "(Tiebreaker)",
         "13": "(\u7834\u5e73)"
     },
     "GameStart-Text,1": {
         "0": "{0} has a different or no version of The Other Roles Reactivated",
+        "9": "{0} verf\u00fcgt \u00fcber eine andere Version oder gar keine Version von The Other Roles Reactivated",
         "13": "{0} \u7684 The Other Roles Reactivated \u7248\u672c\u4e0d\u540c\u6216\u672a\u5b89\u88c5"
     },
     "GameStart-Text,2": {
         "0": "{0} has an older version of The Other Roles Reactivated (v{1})",
+        "9": "{0} verf\u00fcgt \u00fcber eine \u00e4ltere Version von The Other Roles Reactivated (v{1})",
         "13": "{0} \u4f7f\u7528\u4e86\u65e7\u7248\u7684 The Other Roles Reactivated (v{1})"
     },
     "GameStart-Text,3": {
         "0": "{0} has a newer version of The Other Roles Reactivated (v{1})",
+        "9": "{0} hat eine neuere Version von The Other Roles Reactivated (v{1})",
         "13": "{0} \u4f7f\u7528\u4e86\u65b0\u7248\u7684 The Other Roles Reactivated (v{1})"
     },
     "GameStart-Text,4": {
         "0": "{0} has a modified version of TOR-R v{1} <size=30%>({2})</size>",
+        "9": "{0} verf\u00fcgt \u00fcber eine modifizierte Version von TOR-R v{1} <size=30%>({2})</size>",
         "13": "{0} \u4f7f\u7528\u4e86 TOR-R v{1} \u7684\u4fee\u6539\u7248 <size=30%>({2})</size>"
     },
     "GameStart-Text,5": {
         "0": "The host has no or a different version of The Other Roles Reactivated\nYou will be kicked in {0}s",
+        "9": "Der Host verf\u00fcgt nicht \u00fcber \u201eThe Other Roles Reactivated\u201c oder hat eine andere Version davon.\nDu wirst in {0} Sekunden rausgeworfen.",
         "13": "\u623f\u4e3b\u672a\u5b89\u88c5The Other Roles Reactivated\u6216\u6a21\u7ec4\u7248\u672c\u4e0d\u540c\n{0}\u79d2\u4f60\u5c06\u4f1a\u88ab\u8e22\u51fa"
     },
     "GameStart-Text,6": {
         "0": "Players With Different Versions:",
+        "9": "Spieler mit unterschiedlichen Versionen:",
         "13": "\u4f7f\u7528\u4e0d\u540c\u6a21\u7ec4\u7248\u672c\u7684\u73a9\u5bb6:"
     },
     "Intro-Text,1": {
         "0": "Neutral",
+        "9": "Neutral",
         "13": "\u4e2d\u7acb\u9635\u8425"
     },
     "Intro-Text,2": {
         "0": "\u2665 You are in love with {0} \u2665",
+        "9": "\u2665 Du bist verliebt in {0} \u2665",
         "13": "\u2665 \u4f60\u4e0e {0} \u5760\u5165\u4e86\u7231\u6cb3 \u2665"
     },
     "Intro-Text,3": {
         "0": "Your Deputy is {0}",
+        "9": "Dein Deputy ist {0}",
         "13": "\u4f60\u7684\u6355\u5feb\u662f {0}"
     },
     "Intro-Text,4": {
         "0": "Your Sheriff is {0}",
+        "9": "Dein Sheriff ist {0}",
         "13": "\u4f60\u7684\u8b66\u957f\u662f {0}"
     },
     "Swapper-Text,1": {
         "0": "Confirm Swap",
+        "9": "Tausch best\u00e4tigen",
         "13": "\u786e\u8ba4\u4ea4\u6362"
     },
     "Swapper-Text,2": {
         "0": "Swapping!",
+        "9": "Tasche!",
         "13": "\u6b63\u5728\u4ea4\u6362!"
     },
     "Swapper-Text,3": {
         "0": "Swaps: {0}",
+        "9": "Swaps: {0}",
         "13": "\u6362\u7968\u6b21\u6570: {0}"
     },
     "Swapper-Text,4": {
         "0": "The Swapper can't start an emergency meeting",
+        "9": "Der Swapper kann kein Meeting einberufen",
         "13": "\u6362\u7968\u5e08\u4e0d\u80fd\u53ec\u5f00\u7d27\u6025\u4f1a\u8bae"
     },
     "Mayor-Text,1": {
         "0": "Double Vote: {0}",
+        "9": "Doppelter Vote: {0}",
         "13": "\u53cc\u91cd\u6295\u7968: {0}"
     },
     "Mayor-Text,2": {
         "0": "On",
+        "9": "An",
         "13": "\u5f00\u542f"
     },
     "Mayor-Text,3": {
         "0": "Off",
+        "9": "Aus",
         "13": "\u5173\u95ed"
     },
     "Portalmaker-Text,1": {
         "0": "Portal Log:",
+        "9": "Portal Log:",
         "13": "\u4f20\u9001\u95e8\u65e5\u5fd7:"
     },
     "Portalmaker-Text,2": {
         "0": "{0}s ago:",
+        "9": "Vor {0}s:",
         "13": "{0}\u79d2\u4ee5\u524d:"
     },
     "Portalmaker-Text,3": {
         "0": "{0} used the teleporter",
+        "9": "{0} hat den Teleporter verwendet",
         "13": "{0} \u4f7f\u7528\u4e86\u4f20\u9001\u95e8"
     },
     "Trapper-Text,1": {
         "0": "Trap Logs:",
+        "9": "Fallenlogs:",
         "13": "\u9677\u9631\u65e5\u5fd7:"
     },
     "Trapper-Text,2": {
         "0": "Trap {0}:",
+        "9": "Falle {0}:",
         "13": "\u9677\u9631 {0}:"
     },
     "Trapper-Text,3": {
         "0": "Evil Role",
+        "9": "B\u00f6se Rolle",
         "13": "\u90aa\u6076\u804c\u4e1a"
     },
     "Trapper-Text,4": {
         "0": "Good Role",
+        "9": "Gute Rolle",
         "13": "\u5584\u826f\u804c\u4e1a"
     },
     "Snitch-Text,1": {
         "0": "Bad alive roles in game:",
+        "9": "Schlechte Rollen im Spiel:",
         "13": "\u6e38\u620f\u4e2d\u7684\u90aa\u6076\u804c\u4e1a:"
     },
     "Snitch-Text,2": {
         "0": "- {0}, was last seen {1}",
+        "9": "- {0}, wurde zuletzt gesehen {1}",
         "13": "- {0}, \u6700\u540e\u51fa\u73b0\u5728 {1}"
     },
     "Snitch-Text,3": {
         "0": "Snitch is alive: {0}/{1}",
+        "9": "Snitch lebt: {0}/{1}",
         "13": "\u544a\u5bc6\u8005\u8fd8\u6d3b\u7740: {0}/{1}"
     },
     "Snitch-Text,4": {
         "0": "Snitch is dead!",
+        "9": "Snitch ist tot!",
         "13": "\u544a\u5bc6\u8005\u6b7b\u4ea1\uff01"
     },
     "MeetingHud-Text,1": {
         "0": "Host: {0}",
+        "9": "Host: {0}",
         "13": "\u623f\u4e3b: {0}"
     },
     "PlayerInfo-Text,1": {
         "0": "Tasks {0}",
+        "9": "Aufgaben {0}",
         "13": "\u4efb\u52a1\u6570 {0}"
     },
     "Game-Medic,1": {
         "0": "Body Report: Killed {0}s ago!",
+        "9": "Body Report: Get\u00f6tet vor {0}s!",
         "13": "\u5c38\u68c0\u62a5\u544a\uff1a\u6b7b\u4e8e{0}\u79d2\u524d\uff01"
     },
     "Game-Detective,1": {
         "0": "Body Report: The killer appears to be {0}!",
+        "9": "Body Report: Der Killer scheint {0} zu sein!",
         "13": "\u5c38\u68c0\u62a5\u544a\uff1a\u51f6\u624b\u662f{0}\uff01"
     },
     "Game-Detective,2": {
         "0": "Body Report: The killer appears to be a {0} color!",
+        "9": "Body Report: Der Killer scheint eine {0} Farbe zu sein!",
         "13": "\u5c38\u68c0\u62a5\u544a\uff1a\u51f6\u624b\u662f{0}\u8272\u7684\uff01"
     },
     "Game-Detective,3": {
         "0": "Body Report: The corpse is too old to gain information from!",
+        "9": "Body Report: Die Leiche ist zu alt, um Informationen daraus zu gewinnen!",
         "13": "\u5c38\u68c0\u62a5\u544a\uff1a\u8fd9\u4e2a\u5c38\u4f53\u6b7b\u4ea1\u592a\u4e45\u4e86\uff0c\u6ca1\u6709\u4efb\u4f55\u529e\u6cd5\u53d1\u73b0\u4efb\u4f55\u4fe1\u606f\u4e86\uff01"
     },
     "Game-Mafia,1": {
         "0": "(G)",
+        "9": "(G)",
         "13": "(\u6559)"
     },
     "Game-Mafia,2": {
         "0": "(M)",
+        "9": "(M)",
         "13": "(\u5f1f)"
     },
     "Game-Mafia,3": {
         "0": "(J)",
+        "9": "(J=",
         "13": "(\u6e05)"
     },
     "Game-Jester,1": {
         "0": "The Jester can't start an emergency meeting",
+        "9": "Der Jester kann kein Meeting einberufen",
         "13": "\u5c0f\u4e11\u4e0d\u80fd\u53ec\u5f00\u7d27\u6025\u4f1a\u8bae"
     },
     "Game-Lawyer,1": {
         "0": "The Lawyer can't start an emergency meeting",
+        "9": "Der Lawyer kann kein Meeting einberufen",
         "13": "\u5f8b\u5e08\u4e0d\u80fd\u53ec\u5f00\u7d27\u6025\u4f1a\u8bae"
     },
     "Game-Lawyer,2": {
         "0": "The Prosecutor can't start an emergency meeting",
+        "9": "Der Prosecutor kann kein Meeting einberufen",
         "13": "\u8d77\u8bc9\u4eba\u4e0d\u80fd\u53ec\u5f00\u7d27\u6025\u4f1a\u8bae"
     },
     "Game-Useable,1": {
         "0": "{0} and the ship has {1}",
+        "9": "{0} und das Schiff hat {1}",
         "13": "{0} \u4f1a\u8bae\u603b\u6b21\u6570\u5269\u4f59 {1}"
     },
     "Opt-Medium,5": {
         "0": "Yikes, that Sheriff shot backfired.",
+        "9": "Yikes, der Sheriff Schuss ist nach hinten losgegangen.",
         "13": "\u54ce\u5440\uff0c\u67aa\u8d70\u706b\u4e86\uff01[\u8b66\u957f\u81ea\u6740]."
     },
     "Opt-Medium,6": {
         "0": "MAYBE I cursed the person next to me and killed myself. Oops.",
+        "9": "VIELLEICHT habe ich die Person neben mir verhext \nund mich selber get\u00f6tet. Ups!",
         "13": "\u554a\u54e6\uff0c\u6211\u597d\u50cf\u628a\u81ea\u5df1\u5492\u6b7b\u4e86\u8036\u3002[\u672f\u58eb\u6b7b\u4e8e\u81ea\u6740]."
     },
     "Opt-Medium,7": {
         "0": "I tried to steal the gun from their pocket, but they were just happy to see me.",
+        "9": "Ich versuchte ihnen die Waffe zu klauen, aber sie\nwaren nur froh mich zu sehen.",
         "13": "\u6211\u8bd5\u56fe\u4ece\u4ed6\u4eec\u53e3\u888b\u91cc\u5077\u67aa\uff0c\u5374\u628a\u81ea\u5df1\u5bb3\u6b7b\u4e86\u3002[\u7a83\u8d3c\u81ea\u6740]."
     },
     "Opt-Medium,8": {
         "0": "I wanted to get out of this toxic relationship anyways.",
+        "9": "Ich wollte diese toxische Beziehung sowieso beenden.",
         "13": "\u65e0\u8bba\u5982\u4f55\uff0c\u6211\u90fd\u60f3\u6446\u8131\u8fd9\u79cd\u6709\u6bd2\u7684\u5173\u7cfb\u3002[\u5e26\u7740\u604b\u4eba\u6b7b\u53bb]."
     },
     "Opt-Medium,9": {
         "0": "The love of my life died, thus with a kiss I die.",
+        "9": "Die Liebe meines Lebens ist gestorben, und so \nsterbe ich mit einem Kuss.",
         "13": "\u5728\u5929\u613f\u4f5c\u6bd4\u7ffc\u9e1f,\u5728\u5730\u613f\u4e3a\u8fde\u7406\u679d\uff0c\u6240\u7231\u4ee5\u901d\uff0c\u543e\u4ea6\u5bfb\u4e4b\u3002[\u88ab\u604b\u4eba\u5e26\u6b7b]."
     },
     "Opt-Medium,10": {
         "0": "My client killed me. Do I still get paid?",
+        "9": "Mein Kunde hat mich umgebracht. \nBekomme ich trotzdem mein Geld?",
         "13": "\u6211\u7684\u5ba2\u6237\u6740\u4e86\u6211\u3002\u6211\u8fd8\u80fd\u5f97\u5230\u62a5\u916c\u5417\uff1f[\u5f8b\u5e08\u88ab\u5ba2\u6237\u6740\u5bb3]."
     },
     "Opt-Medium,11": {
         "0": "First they sidekicked me, then they killed me. At least I don't need to do tasks anymore.",
+        "9": "Erst haben sie mich als Sidekick benutzt, dann \nhaben sie mich umgebracht. Wenigstens muss \nich jetzt keine Aufgaben mehr erledigen.",
         "13": "\u65e2\u5df2\u7eb3\u6211\u4e3a\u4f0d\uff0c\u4f55\u5fc5\u53d6\u6211\u6027\u547d\uff0c\u7b97\u4e86\uff0c\u81f3\u5c11\u4e0d\u7528\u505a\u4efb\u52a1\u4e86\u3002[\u8ddf\u73ed\u88ab\u8c7a\u72fc\u6740\u5bb3]."
     },
     "Opt-Medium,12": {
         "0": "I guess they confused me for the Spy, is there even one?",
+        "9": "Ich sch\u00e4tze, die haben mich mit dem Spy verwechselt \n\u2013 gibt es den \u00fcberhaupt?",
         "13": "\u4ed6\u4eec\u80af\u5b9a\u662f\u628a\u6211\u5f53\u6210\u5367\u5e95\u624d\u6740\u4e86\u6211\uff0c\u6709\u6ca1\u6709\uff1f[\u5185\u9b3c\u6b7b\u4e8e\u961f\u53cb]."
     },
     "Opt-Medium,13": {
         "0": "Is my dead body some kind of art now or... aaand it's gone.",
+        "9": "Ist meine Leiche jetzt etwa eine Art Kunstwerk \noder \u2026 und schon ist sie weg.",
         "13": "\u6211\u7684\u5c38\u4f53\u73b0\u5728\u662f\u67d0\u79cd\u827a\u672f\u8fd8\u662f\u2026\u2026\u554a\uff0c\u5b83\u4e0d\u89c1\u4e86\u3002[\u5c38\u4f53\u88ab\u6e05\u7406\u6216\u5403\u4e86]."
     },
     "Opt-Medium,14": {
         "0": "If my role hasn't been saved, there's no {0} in the game anymore.",
+        "9": "Wenn meine Rolle nicht gerettet wurde \ngibt es jetzt keinen {0} mehr.",
         "13": "\u5982\u679c\u6211\u6b7b\u4e86,\u90a3\u4e48\u573a\u4e0a\u5c06\u4e0d\u5728\u6709{0}\u4e86."
     },
     "Opt-Medium,15": {
         "0": "I'm not sure, but I guess a {0} color killed me.",
+        "9": "Ich bin mir nicht sicher, aber ich glaube, eine \n{0} Farbe hat mich umgebracht.\n",
         "13": "\u6211\u4e0d\u786e\u5b9a, \u4f46\u662f\u6211\u8ba4\u4e3a\u662f\u4e00\u4e2a\u6709\u7740{0}\u7684\u4eba\u6740\u4e86\u6211."
     },
     "Opt-Medium,16": {
         "0": "If I counted correctly, I died {0}s before the next meeting started.",
+        "9": "Wenn ich richtig gez\u00e4hlt habe, bin ich {0} Sekunden \nvor Beginn des n\u00e4chsten Meetings gestorben.",
         "13": "\u5982\u679c\u6211\u6ca1\u8bb0\u9519\u7684\u8bdd, \u6211\u5728\u4f1a\u8bae\u524d{0}\u79d2\u5c31\u5bc4\u4e86."
     },
     "Opt-Medium,17": {
         "0": "It seems like my killer is the {0}.",
+        "9": "Es sieht so aus, als w\u00e4re mein M\u00f6rder der {0}.",
         "13": "\u6211\u60f3\u90a3\u6740\u6211\u7684\u51f6\u624b\u804c\u4e1a\u5e94\u8be5\u662f{0}."
     },
     "Opt-Medium,18": {
         "0": "lighter",
+        "9": "hellere",
         "13": "\u6d45\u8272"
     },
     "Opt-Medium,19": {
         "0": "darker",
+        "9": "dunklere",
         "13": "\u6df1\u8272"
     },
     "Opt-Medium,20": {
         "0": "I'm not sure, but I guess a {0} color killed me.",
+        "9": "Ich bin mir nicht sicher, aber ich glaube, eine \n{0} Farbe hat mich umgebracht.",
         "13": "\u6211\u4e0d\u786e\u5b9a\uff0c\u4f46\u6211\u731c\u662f\u4e00\u4e2a{0}\u7684\u51f6\u624b\u6740\u4e86\u6211"
     },
     "Opt-Medium,21": {
         "0": "When you asked, {0} killer was still alive",
+        "9": "Als du gefragt hast, lebte noch {0} Killer.",
         "13": "\u5f53\u4f60\u8be2\u95ee\u7684\u65f6\u5019, {0} \u6740\u624b\u8fd8\u6d3b\u7740"
     },
     "Opt-Medium,22": {
         "0": "When you asked, {0} killers were still alive",
+        "9": "Als du gefragt hast, lebten noch {0} Killer.",
         "13": "\u5f53\u4f60\u8be2\u95ee\u7684\u65f6\u5019, {0} \u6740\u624b\u8fd8\u6d3b\u7740"
     },
     "Opt-Medium,23": {
         "0": "When you asked, {0} player who can use vents was still alive",
+        "9": "Als du gefragt hast, lebte noch {0} Spieler,\ndie venten k\u00f6nnen",
         "13": "\u5f53\u4f60\u8be2\u95ee\u7684\u65f6\u5019, {0} \u8fd8\u6d3b\u7740\u4e14\u80fd\u4f7f\u7528\u7ba1\u9053\u7684\u73a9\u5bb6"
     },
     "Opt-Medium,24": {
         "0": "When you asked, {0} players who can use vents were still alive",
+        "9": "Als du gefragt hast, lebten noch {0} Spieler,\ndie venten k\u00f6nnen",
         "13": "\u5f53\u4f60\u8be2\u95ee\u7684\u65f6\u5019, {0} \u8fd8\u6d3b\u7740\u4e14\u80fd\u4f7f\u7528\u7ba1\u9053\u7684\u73a9\u5bb6"
     },
     "Opt-Medium,25": {
         "0": "When you asked, {0} player who is neutral but cannot kill was still alive",
+        "9": "Als du gefragt hast, lebte noch {0} Spieler,\ndie neutral sind, aber nicht t\u00f6ten k\u00f6nnen",
         "13": "\u5f53\u4f60\u8be2\u95ee\u7684\u65f6\u5019, {0} \u8fd8\u6d3b\u7740\u4e14\u4e0d\u80fd\u51fb\u6740\u7684\u4e2d\u7acb\u73a9\u5bb6"
     },
     "Opt-Medium,26": {
         "0": "When you asked, {0} players who are neutral but cannot kill were still alive",
+        "9": "Als du gefragt hast, lebten noch {0} Spieler,\ndie neutral sind, aber nicht t\u00f6ten k\u00f6nnen\n",
         "13": "\u5f53\u4f60\u8be2\u95ee\u7684\u65f6\u5019, {0} \u8fd8\u6d3b\u7740\u4e14\u4e0d\u80fd\u51fb\u6740\u7684\u4e2d\u7acb\u73a9\u5bb6"
     },
     "Opt-Medium,27": {
         "0": "{0}'s Soul:",
+        "9": "{0}s Seele",
         "13": "{0}\u7684\u7075\u9b42:"
     }
 }
