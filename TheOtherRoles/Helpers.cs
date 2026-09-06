@@ -64,14 +64,31 @@ public static class Helpers
         return null;
     }
 
+    // Check for the first 8 bytes all valid PNGs should have so we can (hopefully lol) detect corrupted images
+    private static readonly byte[] PngSignature = { 0x89, 0x50, 0x4E, 0x47, 0x0D, 0x0A, 0x1A, 0x0A };
+
+    private static bool isValidPng(Il2CppStructArray<byte> data)
+    {
+        if (data == null || data.Length < PngSignature.Length) return false;
+        for (var i = 0; i < PngSignature.Length; i++)
+            if (data[i] != PngSignature[i]) return false;
+        return true;
+    }
+
     public static Texture2D loadTextureFromDisk(string path)
     {
         try
         {
             if (File.Exists(path))
             {
-                var texture = new Texture2D(2, 2, TextureFormat.ARGB32, true);
                 var byteTexture = Il2CppSystem.IO.File.ReadAllBytes(path);
+                if (!isValidPng(byteTexture))
+                {
+                    TheOtherRolesPlugin.Logger.LogWarning("dont load corrupt/invalid file" + path);
+                    return null;
+                }
+
+                var texture = new Texture2D(2, 2, TextureFormat.ARGB32, true);
                 texture.LoadImage(byteTexture, false);
                 return texture;
             }
