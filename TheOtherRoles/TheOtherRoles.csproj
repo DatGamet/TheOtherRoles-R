@@ -36,22 +36,16 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Compile Remove="Voice\**" />
+      <EmbeddedResource Remove="Voice\**" />
+      <None Remove="Voice\**" />
+    </ItemGroup>
+
+    <ItemGroup>
         <PackageReference Include="AmongUs.GameLibs.Android" Version="2026.8.18" Condition="'$(Platform)' == 'Android'" />
         <PackageReference Include="AmongUs.GameLibs.Steam" Version="2026.8.18" Condition="'$(Platform)' == 'Windows'" />
         <PackageReference Include="BepInEx.IL2CPP.MSBuild" Version="2.1.0-rc.1" />
         <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.735" />
-        <PackageReference Include="NAudio" Version="2.2.1" />
-        <PackageReference Include="Concentus" Version="2.2.2" />
-    </ItemGroup>
-
-    <!-- Embed NAudio + Concentus DLLs so they ship inside the TOR assembly -->
-    <ItemGroup>
-        <EmbeddedResource Include="Voice\Lib\NAudio.dll" LogicalName="Lib.NAudio.dll" />
-        <EmbeddedResource Include="Voice\Lib\NAudio.Core.dll" LogicalName="Lib.NAudio.Core.dll" />
-        <EmbeddedResource Include="Voice\Lib\NAudio.Wasapi.dll" LogicalName="Lib.NAudio.Wasapi.dll" />
-        <EmbeddedResource Include="Voice\Lib\NAudio.WinMM.dll" LogicalName="Lib.NAudio.WinMM.dll" />
-        <EmbeddedResource Include="Voice\Lib\NAudio.Asio.dll" LogicalName="Lib.NAudio.Asio.dll" />
-        <EmbeddedResource Include="Voice\Lib\Concentus.dll" LogicalName="Lib.Concentus.dll" />
     </ItemGroup>
 
     <Target Name="Date" BeforeTargets="BeforeBuild">
