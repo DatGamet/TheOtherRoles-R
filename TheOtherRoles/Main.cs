@@ -28,8 +28,6 @@ using TheOtherRoles.Modules;
 using TheOtherRoles.Modules.CustomHats;
 using TheOtherRoles.Patches;
 using TheOtherRoles.Utilities;
-using TheOtherRoles.Voice;
-using TheOtherRoles.Voice.Game;
 using UnityEngine;
 using Object = UnityEngine.Object;
 using Random = System.Random;
@@ -43,8 +41,6 @@ public class TheOtherRolesPlugin : BasePlugin
 {
     public const string Id = "me.eisbison.theotherroles";
     public const string VersionString = "5.0.0";
-
-    private const string VoiceResPrefix = "Lib.";
     public static bool isBeta = true;
 
     public static Version Version = Version.Parse(VersionString);
@@ -57,11 +53,6 @@ public class TheOtherRolesPlugin : BasePlugin
 
     private static readonly Dictionary<string, Assembly> _voiceAsmCache
         = new(StringComparer.OrdinalIgnoreCase);
-
-    static TheOtherRolesPlugin()
-    {
-        AppDomain.CurrentDomain.AssemblyResolve += ResolveEmbeddedVoiceAssembly;
-    }
 
     public Harmony Harmony { get; } = new(Id);
 
@@ -77,25 +68,6 @@ public class TheOtherRolesPlugin : BasePlugin
     public static ConfigEntry<bool> ShowVentsOnMap { get; set; }
     public static ConfigEntry<bool> ShowChatNotifications { get; set; }
     public static ConfigEntry<string> ShowPopUpVersion { get; set; }
-
-    private static Assembly ResolveEmbeddedVoiceAssembly(object sender, ResolveEventArgs args)
-    {
-        var shortName = new AssemblyName(args.Name).Name;
-        if (shortName == null) return null;
-        if (_voiceAsmCache.TryGetValue(shortName, out var cached)) return cached;
-
-        var resourceName = VoiceResPrefix + shortName + ".dll";
-        var asm = Assembly.GetExecutingAssembly();
-        using var stream = asm.GetManifestResourceStream(resourceName);
-        if (stream == null) return null;
-
-        using var ms = new MemoryStream();
-        stream.CopyTo(ms);
-        var loaded = Assembly.Load(ms.ToArray());
-        _voiceAsmCache[shortName] = loaded;
-        return loaded;
-    }
-
 
     // This is part of the Mini.RegionInstaller, Licensed under GPLv3
     // file="RegionInstallPlugin.cs" company="miniduikboot">
@@ -176,14 +148,6 @@ public class TheOtherRolesPlugin : BasePlugin
 
         // AMCI: Register mod GUID for mod-only matchmaking
         AmciRegistration.Register();
-
-        // Initialize voice chat system
-        VoiceConfig.Init(Config);
-        ClassInjector.RegisterTypeInIl2Cpp<VoiceSettingsWindow>();
-        ClassInjector.RegisterTypeInIl2Cpp<PublicLobbyWindow>();
-        ClassInjector.RegisterTypeInIl2Cpp<PlayerVolumeWindow>();
-        VCManager.RegisterSceneHook();
-        TorVoiceHudState.Init();
 
         Logger.LogInfo("Loading TOR completed!");
     }

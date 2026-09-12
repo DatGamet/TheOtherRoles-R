@@ -3,7 +3,6 @@ using AmongUs.Data;
 using Assets.InnerNet;
 using HarmonyLib;
 using Il2CppSystem.Collections.Generic;
-using TheOtherRoles.Voice;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Events;
@@ -218,7 +217,7 @@ public static class MainMenuCoffeeButtonPatch
     {
         if (_coffeeSprite == null)
             _coffeeSprite =
-                TorVoiceHudState.LoadSpriteFromResources("TheOtherRoles.Resources.Voice.CoffeeButton.png", 100f);
+                Helpers.loadSpriteFromResources("TheOtherRoles.Resources.CoffeeButton.png", 100f);
         if (_coffeeSprite == null) return;
 
         var go = new GameObject("CoffeeButton");

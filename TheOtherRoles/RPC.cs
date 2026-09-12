@@ -13,7 +13,6 @@ using TheOtherRoles.Modules;
 using TheOtherRoles.Objects;
 using TheOtherRoles.Patches;
 using TheOtherRoles.Utilities;
-using TheOtherRoles.Voice.Voice;
 using TMPro;
 using UnityEngine;
 using static TheOtherRoles.TheOtherRoles;
@@ -184,9 +183,6 @@ internal enum CustomRPC
     ShareTimer,
     ShareGhostInfo,
     EventKick,
-
-    // Voice channels
-    VoiceChannelSync
 }
 
 public static class RPCProcedure
@@ -229,7 +225,6 @@ public static class RPCProcedure
         EventUtility.clearAndReload();
         MapBehaviourPatch.clearAndReload();
         HudManagerUpdate.CloseSummary();
-        VoiceChannelHelper.Clear();
     }
 
     public static void HandleShareOptions(byte numberOfOptions, MessageReader reader)
@@ -1922,11 +1917,6 @@ internal class RPCHandlerPatch
                 var kickTarget = reader.ReadByte();
                 EventUtility.handleKick(Helpers.playerById(kickSource), Helpers.playerById(kickTarget),
                     reader.ReadSingle());
-                break;
-            case (byte)CustomRPC.VoiceChannelSync:
-                var vcPlayerId = reader.ReadByte();
-                var vcChannel = (VoiceChannel)reader.ReadByte();
-                VoiceChannelHelper.SetPlayerChannel(vcPlayerId, vcChannel);
                 break;
         }
     }
