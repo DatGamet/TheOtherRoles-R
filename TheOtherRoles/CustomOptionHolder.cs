@@ -46,31 +46,6 @@ public class CustomOptionHolder
     public static CustomOption eventHeavyAge;
     public static CustomOption deadImpsBlockSabotage;
 
-    public static CustomOption vcEnableVoiceChat;
-    public static CustomOption vcMaxChatDistance;
-    public static CustomOption vcWallsBlockSound;
-    public static CustomOption vcOnlyHearInSight;
-    public static CustomOption vcImpostorHearGhosts;
-    public static CustomOption vcOnlyGhostsCanTalk;
-    public static CustomOption vcHearInVent;
-    public static CustomOption vcHearVentPlayers;
-    public static CustomOption vcVentPrivateChat;
-    public static CustomOption vcCommsSabDisables;
-    public static CustomOption vcCameraCanHear;
-    public static CustomOption vcOnlyMeetingOrLobby;
-
-    public static CustomOption vcChannelImpostor;
-    public static CustomOption vcChannelLovers;
-    public static CustomOption vcChannelJackal;
-    public static CustomOption vcChannelSheriff;
-
-    public static CustomOption vcHideNSeekEnable;
-    public static CustomOption vcHideNSeekOnlyGhostsCanTalk;
-    public static CustomOption vcHideNSeekCameraCanHear;
-    public static CustomOption vcPropHuntEnable;
-    public static CustomOption vcPropHuntOnlyGhostsCanTalk;
-    public static CustomOption vcPropHuntCameraCanHear;
-
     public static CustomOption mafiaSpawnRate;
     public static CustomOption janitorCooldown;
 
@@ -1182,44 +1157,6 @@ public class CustomOptionHolder
             null, true, heading: new TranslationInfo("Opt-Heading", 13));
         camsNoNightVisionIfImpVision = CustomOption.Create(Types.General,
             new TranslationInfo("Opt-General", 36), false, camsNightVision);
-
-        // Voice Chat Host Settings
-        vcEnableVoiceChat = CustomOption.Create(Types.General, new TranslationInfo("Opt-Heading", 14, Color.cyan), false, null, true,
-            heading: new TranslationInfo("Opt-Heading", 14));
-        vcMaxChatDistance =
-            CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 46), 6f, 1.5f, 20f, 0.5f, vcEnableVoiceChat);
-        vcWallsBlockSound = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 47), true, vcEnableVoiceChat);
-        vcOnlyHearInSight = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 48), false, vcEnableVoiceChat);
-        vcImpostorHearGhosts = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 49), false, vcEnableVoiceChat);
-        vcOnlyGhostsCanTalk = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 50), false, vcEnableVoiceChat);
-        vcHearInVent = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 51), true, vcEnableVoiceChat);
-        vcHearVentPlayers = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 52), true, vcEnableVoiceChat);
-        vcVentPrivateChat = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 53), false, vcEnableVoiceChat);
-        vcCommsSabDisables = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 54), true, vcEnableVoiceChat);
-        vcCameraCanHear = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 55), true, vcEnableVoiceChat);
-        vcOnlyMeetingOrLobby = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 57), false, vcEnableVoiceChat);
-
-        vcChannelImpostor = CustomOption.Create(Types.General,
-            new TranslationInfo("Opt-General", 58), true, vcEnableVoiceChat, true,
-            heading: new TranslationInfo("Opt-Heading", 15));
-        vcChannelLovers = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 59), true,
-            vcEnableVoiceChat);
-        vcChannelJackal = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 60), true,
-            vcEnableVoiceChat);
-        vcChannelSheriff = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 61),
-            true, vcEnableVoiceChat);
-
-        vcHideNSeekEnable = CustomOption.Create(Types.HideNSeekMain, new TranslationInfo("Opt-Heading", 14, Color.yellow), false, null, true,
-            heading: new TranslationInfo("Opt-Heading", 14));
-        vcHideNSeekOnlyGhostsCanTalk =
-            CustomOption.Create(Types.HideNSeekMain, new TranslationInfo("Opt-General", 50), false, vcHideNSeekEnable);
-        vcHideNSeekCameraCanHear =
-            CustomOption.Create(Types.HideNSeekMain, new TranslationInfo("Opt-General", 55), true, vcHideNSeekEnable);
-        vcPropHuntEnable = CustomOption.Create(Types.PropHunt, new TranslationInfo("Opt-Heading", 14, Color.yellow), false, null, true,
-            heading: new TranslationInfo("Opt-Heading", 14));
-        vcPropHuntOnlyGhostsCanTalk =
-            CustomOption.Create(Types.PropHunt, new TranslationInfo("Opt-General", 50), false, vcPropHuntEnable);
-        vcPropHuntCameraCanHear = CustomOption.Create(Types.PropHunt, new TranslationInfo("Opt-General", 55), true, vcPropHuntEnable);
 
         dynamicMap = CustomOption.Create(Types.General, new TranslationInfo("Opt-General", 37), false, null, true,
             heading: new TranslationInfo("Opt-Heading", 16));

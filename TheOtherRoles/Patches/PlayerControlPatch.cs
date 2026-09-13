@@ -227,7 +227,8 @@ public static class PlayerControlFixedUpdatePatch
                 .SetLocalZ(-0.0001f); // This moves both the name AND the colorblindtext behind objects (if the player is behind the object), like the rock on polus
 
             if ((Lawyer.lawyerKnowsRole && PlayerControl.LocalPlayer == Lawyer.lawyer && p == Lawyer.target) ||
-                p == PlayerControl.LocalPlayer || PlayerControl.LocalPlayer.Data.IsDead)
+                p == PlayerControl.LocalPlayer || PlayerControl.LocalPlayer.Data.IsDead ||
+                DevMode.spawnedBots.Contains(p))
             {
                 var playerInfoTransform = p.cosmetics.nameText.transform.parent.FindChild("Info");
                 var playerInfo = playerInfoTransform != null ? playerInfoTransform.GetComponent<TextMeshPro>() : null;
@@ -282,6 +283,13 @@ public static class PlayerControlFixedUpdatePatch
                     }
 
                     meetingInfoText = $"{roleNames} {taskInfo}".Trim();
+                }
+                else if (DevMode.spawnedBots.Contains(p))
+                {
+                    // Dev Mode: always show a bot's role above its name, regardless of ghost settings,
+                    // so their assigned role (from Bot Roles / random assignment) is visible at a glance.
+                    playerInfoText = $"{roleText} {taskInfo}".Trim();
+                    meetingInfoText = playerInfoText;
                 }
                 else if (TORMapOptions.ghostsSeeRoles && TORMapOptions.ghostsSeeInformation)
                 {

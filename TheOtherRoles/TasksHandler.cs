@@ -51,6 +51,24 @@ public static class TasksHandler
                 completedTasks += playerCompleted;
             }
 
+            // Temporary diagnostic: user hit a report-triggers-instant-task-win bug in Dev Mode that
+            // isn't explained by anything found reading the code so far (bots always have 0 tasks by
+            // design, so totals should only ever reflect the real player). Log every time the totals
+            // actually change, so the next repro shows exactly which recompute call pushed
+            // CompletedTasks >= TotalTasks and what GameData.AllPlayers looked like at that moment.
+            if (totalTasks != __instance.TotalTasks || completedTasks != __instance.CompletedTasks)
+            {
+                TheOtherRolesPlugin.Logger.LogInfo(
+                    $"[TaskDiag] RecomputeTaskCounts: {__instance.TotalTasks}/{__instance.CompletedTasks} -> {totalTasks}/{completedTasks}");
+                foreach (var playerInfo in GameData.Instance.AllPlayers.GetFastEnumerator())
+                {
+                    var (playerCompleted, playerTotal) = taskInfo(playerInfo);
+                    if (playerTotal == 0 && playerCompleted == 0) continue;
+                    TheOtherRolesPlugin.Logger.LogInfo(
+                        $"[TaskDiag]   {playerInfo.PlayerName} (role={playerInfo.Role?.name}, isImpostor={playerInfo.Role?.IsImpostor}, tasksCount={playerInfo.Role?.TasksCountTowardProgress}, fake={playerInfo.Object?.hasFakeTasks()}): {playerCompleted}/{playerTotal}");
+                }
+            }
+
             __instance.TotalTasks = totalTasks;
             __instance.CompletedTasks = completedTasks;
             return false;

@@ -603,6 +603,11 @@ internal class CheckEndCriteriaPatch
         if ((HideNSeek.isHideNSeekGM && !HideNSeek.taskWinPossible) || PropHunt.isPropHuntGM) return false;
         if (GameData.Instance.TotalTasks > 0 && GameData.Instance.TotalTasks <= GameData.Instance.CompletedTasks)
         {
+            // Temporary diagnostic, see matching note in TasksHandler.cs - log the exact numbers that
+            // fired this, in case they were never wrong per RecomputeTaskCounts and something else set
+            // TotalTasks/CompletedTasks directly instead.
+            TheOtherRolesPlugin.Logger.LogInfo(
+                $"[TaskDiag] Task win firing: TotalTasks={GameData.Instance.TotalTasks}, CompletedTasks={GameData.Instance.CompletedTasks}");
             //__instance.enabled = false;
             GameManager.Instance.RpcEndGame(GameOverReason.CrewmatesByTask, false);
             return true;

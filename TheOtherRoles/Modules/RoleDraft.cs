@@ -398,6 +398,13 @@ internal class RoleDraft
                         }
                     }
                 }
+                else if (AmongUsClient.Instance.AmHost && DevMode.spawnedBots.Any(b => b.PlayerId == pickOrder[0]))
+                {
+                    // Dev Mode bots can't pick for themselves - the host auto-picks for them immediately
+                    // instead of leaving them in the queue forever.
+                    var bot = DevMode.spawnedBots.First(b => b.PlayerId == pickOrder[0]);
+                    sendPickForBot(bot.PlayerId, PickRoleForBot(bot));
+                }
                 else
                 {
                     var currentPick = PlayerControl.AllPlayerControls.Count - pickOrder.Count + 1;
@@ -495,6 +502,32 @@ internal class RoleDraft
         // destroy all the buttons:
         foreach (var button in buttons) button?.gameObject?.Destroy();
         buttons.Clear();
+    }
+
+    // Simplified role choice for a Dev Mode bot's draft turn: any role matching the bot's own team
+    // (impostor/crewmate) that hasn't already been taken (base Crewmate/Impostor can repeat). This
+    // doesn't replicate the full quota/pairing logic used for the human's own choices - bots have no
+    // real stake in "fair" picks, this just needs to always produce a valid role so the draft can move on.
+    private static byte PickRoleForBot(PlayerControl bot)
+    {
+        var isImpostor = bot.Data.Role.IsImpostor;
+        var candidates = CustomRoleManager.Instance.allRoleInfos
+            .Where(r => !r.isModifier && r.isImpostor == isImpostor)
+            .Where(r => r.roleId is RoleId.Crewmate or RoleId.Impostor || !alreadyPicked.Contains((byte)r.roleId))
+            .ToList();
+        if (candidates.Count == 0)
+            candidates.Add(isImpostor ? CustomRoleManager.impostor : CustomRoleManager.crewmate);
+        return (byte)candidates.OrderBy(_ => Guid.NewGuid()).First().roleId;
+    }
+
+    private static void sendPickForBot(byte botPlayerId, byte roleId)
+    {
+        var writer = AmongUsClient.Instance.StartRpcImmediately(PlayerControl.LocalPlayer.NetId,
+            (byte)CustomRPC.DraftModePick, SendOption.Reliable);
+        writer.Write(botPlayerId);
+        writer.Write(roleId);
+        AmongUsClient.Instance.FinishRpcImmediately(writer);
+        receivePick(botPlayerId, roleId);
     }
 
 

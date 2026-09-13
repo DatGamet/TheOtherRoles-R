@@ -76,6 +76,9 @@ public class GameStartManagerPatch
             foreach (var client in AmongUsClient.Instance.allClients.ToArray())
             {
                 if (client.Character == null) continue;
+                var dummyComponent = client.Character.GetComponent<DummyBehaviour>();
+                if (dummyComponent != null && dummyComponent.enabled)
+                    continue; // Dev Mode bots never do the version handshake - same exemption as GameStartManagerBeginGame below
                 if (!playerVersions.ContainsKey(client.Id))
                 {
                     versionMismatch = true;
